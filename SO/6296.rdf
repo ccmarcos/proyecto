@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="The Basics of Symbian OS Communication">
+  <lb:tema>The Basics of Symbian OS Communication</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Introduction</lb:subtema>
+      <lb:subtema>Introduction to the Symbian OS Communication Architecture</lb:subtema>
+      <lb:subtema>Several Introductions to the Architecture Infrastructure</lb:subtema>
+      <lb:subtema>Transport Technologies </lb:subtema>
+      <lb:subtema>A Look at Content Technologies</lb:subtema>
+      <lb:subtema>Security and Communication </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Programming using Symbian OS Communication">
+  <lb:tema>Programming using Symbian OS Communication</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Getting Started with Communications Programming</lb:subtema>
+      <lb:subtema>Serial Communications</lb:subtema>
+      <lb:subtema>Communicating via Infrared: Serial Communication</lb:subtema>
+      <lb:subtema>Using Sockets </lb:subtema>
+      <lb:subtema>Communicating via Infrared: Using Sockets Protocol</lb:subtema>
+      <lb:subtema>Communicating with TCP/IP</lb:subtema>
+      <lb:subtema>Bluetooth Communications</lb:subtema>
+    </rdf:Seq> 
+  </lb:subtema> 
+</rdf:Description>
+</rdf:RDF> 

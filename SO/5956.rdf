@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Introducción">
+  <lb:tema>Introducción</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>¿Qué es un sistema operativo?</lb:subtema>
+      <lb:subtema>Sistemas por lotes sencillos</lb:subtema>
+      <lb:subtema>Sistemas por lotes multiprogramados</lb:subtema>
+      <lb:subtema>Sistemas de tiempo compartido</lb:subtema>
+      <lb:subtema>Sistemas de computador personal</lb:subtema>
+      <lb:subtema>Sistemas paralelos</lb:subtema>
+      <lb:subtema>Sistemas distribuidos</lb:subtema>
+      <lb:subtema>Sistemas de tiempo real</lb:subtema>
+      <lb:subtema>Resumen</lb:subtema>
+      <lb:subtema>Ejercicios</lb:subtema>
+      <lb:subtema>Notas bibliográficas</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Estructuras de los sistemas de computación">
+  <lb:tema>Estructuras de los sistemas de computación</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Funcionamiento de los sistemas de computación</lb:subtema>
+      <lb:subtema>Estructura de E /S</lb:subtema>
+      <lb:subtema>Estructuras de almacenamiento </lb:subtema>
+      <lb:subtema>Jerarquías de almacenamiento</lb:subtema>
+      <lb:subtema>Protección por hardware</lb:subtema>
+      <lb:subtema>Arquitectura general de los sistemas</lb:subtema>
+      <lb:subtema>Resumen</lb:subtema>
+      <lb:subtema>Ejercicios</lb:subtema>
+      <lb:subtema>Notas bibliográficas</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Procesos">
+  <lb:tema>Procesos</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+    	<lb:subtema>El concepto de proceso</lb:subtema>
+    	<lb:subtema>Planificación de procesos</lb:subtema>
+    	<lb:subtema>Operaciones con procesos</lb:subtema>
+    	<lb:subtema>Procesos cooperativos</lb:subtema>
+    	<lb:subtema>Hilos</lb:subtema>
+    	<lb:subtema>Comunicación entre procesos</lb:subtema>
+    	<lb:subtema>Resumen</lb:subtema>
+    	<lb:subtema>Ejercicios</lb:subtema>
+    	<lb:subtema>Notas bibliográficas</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Planificación de la CPU">
+  <lb:tema>Planificación de la CPU</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Conceptos básicos</lb:subtema>
+    	<lb:subtema>Criterios de planificación</lb:subtema>
+    	<lb:subtema>Algoritmos de planificación</lb:subtema>
+    	<lb:subtema>Planificación de múltiples procesadores</lb:subtema>
+    	<lb:subtema>Planificación en tiempo real</lb:subtema>
+    	<lb:subtema>Evaluación de algoritmos </lb:subtema>
+    	<lb:subtema>Resumen</lb:subtema>
+    	<lb:subtema>Ejercicios</lb:subtema>
+    	<lb:subtema>Notas bibliográficas</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Sincronización de procesos">
+  <lb:tema>Sincronización de procesos</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Antecedentes</lb:subtema>
+      <lb:subtema>El problema de la sección crítica</lb:subtema>
+      <lb:subtema>Hardware de sincronización</lb:subtema>
+      <lb:subtema>Semáforos</lb:subtema>
+      <lb:subtema>Problemas clásicos de sincronización</lb:subtema>
+      <lb:subtema>Regiones críticas</lb:subtema>
+      <lb:subtema>Monitores</lb:subtema>
+      <lb:subtema>Sincronización en Solaris</lb:subtema>
+      <lb:subtema>Transacciones atómicas</lb:subtema>
+      <lb:subtema>Resumen</lb:subtema>
+      <lb:subtema>Ejercicios</lb:subtema>
+      <lb:subtema>Notas bibliográficas</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Gestión de memoria">
+  <lb:tema>Gestión de memoria</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Antecedentes </lb:subtema>
+      <lb:subtema>Espacio de direcciones lógico y físico</lb:subtema>
+      <lb:subtema>Intercambio</lb:subtema>
+      <lb:subtema>Asignación contigua</lb:subtema>
+      <lb:subtema>Paginación</lb:subtema>
+      <lb:subtema>Segmentación</lb:subtema>
+      <lb:subtema>Segmentación con paginación</lb:subtema>
+      <lb:subtema>Resumen</lb:subtema>
+      <lb:subtema>Ejercicios</lb:subtema>
+      <lb:subtema>Notas bibliográficas</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Memoria virtual">
+  <lb:tema>Memoria virtual</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Antecedentes</lb:subtema>
+      <lb:subtema>Paginación por demanda</lb:subtema>
+      <lb:subtema>Desempeño de la paginación por demanda</lb:subtema>
+      <lb:subtema>Reemplazo de páginas</lb:subtema>
+      <lb:subtema>Algoritmos de reemplazo de páginas</lb:subtema>
+      <lb:subtema>Asignación de marcos</lb:subtema>
+      <lb:subtema>Hiperpaginación</lb:subtema>
+      <lb:subtema>Otras consideraciones</lb:subtema>
+      <lb:subtema>Segmentación por demanda</lb:subtema>
+      <lb:subtema>Resumen</lb:subtema>
+      <lb:subtema>Ejercicios</lb:subtema>
+      <lb:subtema>Notas bibliográficas</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Interfaz con el sistema de archivos">
+  <lb:tema>Interfaz con el sistema de archivos</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>El concepto de archivo</lb:subtema>
+      <lb:subtema>Métodos de acceso</lb:subtema>
+      <lb:subtema>Estructura de directorios</lb:subtema>
+      <lb:subtema>Protección</lb:subtema>
+      <lb:subtema>Semántica de consistencia</lb:subtema>
+      <lb:subtema>Resumen</lb:subtema>
+      <lb:subtema>Ejercicios</lb:subtema>
+      <lb:subtema>Notas bibliográficas</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Sistemas de E/S">
+  <lb:tema>Sistemas de E/S</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Generalidades</lb:subtema>
+      <lb:subtema>Hardware de E/S</lb:subtema>
+      <lb:subtema>Interfaz de E/S de las aplicaciones</lb:subtema>
+      <lb:subtema>Subsistema de E/S del núcleo</lb:subtema>
+      <lb:subtema>Transformación de solicitudes de E/S en operaciones de hardware</lb:subtema>
+      <lb:subtema>Desempeño</lb:subtema>
+      <lb:subtema>Resumen</lb:subtema>
+      <lb:subtema>Ejercicios</lb:subtema>
+      <lb:subtema>Notas bibliográficas</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Interfaz con el sistema de archivos Sistemas de E/S">
+  <lb:tema>Interfaz con el sistema de archivos Sistemas de E/S</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Estructura de discos</lb:subtema>
+      <lb:subtema>Planificación de discos</lb:subtema>
+      <lb:subtema>Administración de discos</lb:subtema>
+      <lb:subtema>Administración del espacio de intercambio</lb:subtema>
+      <lb:subtema>Confiabilidad de los discos</lb:subtema>
+      <lb:subtema>Implementación de almacenamiento estable</lb:subtema>
+      <lb:subtema>Resumen</lb:subtema>
+      <lb:subtema>Ejercicios</lb:subtema>
+      <lb:subtema>Notas bibliográficas</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Dispositivos de almacenamiento terciario">
+   <lb:tema>Dispositivos de almacenamiento terciario</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Tareas del sistema operativo </lb:subtema>
+      <lb:subtema>Cuestiones de desempeño</lb:subtema>
+      <lb:subtema>Resumen</lb:subtema>
+      <lb:subtema>Ejercicios</lb:subtema>
+      <lb:subtema>Notas bibliográficas</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

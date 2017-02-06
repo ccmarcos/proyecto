@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+<rdf:Description
+rdf:about="The Permanent Connection">
+  <lb:tema>The Permanent Connection</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+    	<lb:subtema>Why Do You Need A Dedicated Line? Ethernet Is Used To Construct A LAN</lb:subtema>
+    	<lb:subtema>Getting Permanently Connected </lb:subtema>
+    	<lb:subtema>Your Own Domain Name </lb:subtema>
+    	<lb:subtema>The Router</lb:subtema>
+    	<lb:subtema>The Big Picture</lb:subtema>
+    	<lb:subtema>What You Need For Your Local Network </lb:subtema>
+     </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Installing Linux">
+  <lb:tema>Installing Linux</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+    	<lb:subtema>Things To Know Before Installing Linu</lb:subtema>
+    	<lb:subtema>Connecting Your LAN To The Internet</lb:subtema>
+    	<lb:subtema>Preparing The PC For The Installation Preparations</lb:subtema>
+    	<lb:subtema>Creating An Installation Disk</lb:subtema>
+    	<lb:subtema>Installing Linux, Part 1 </lb:subtema>
+    	<lb:subtema>Installing Linux, Part 2</lb:subtema>
+    	<lb:subtema>Installing Linux, Part 3</lb:subtema>
+     </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Mastering The Basic Operations Of Linux">
+  <lb:tema>Mastering The Basic Operations Of Linux</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+    	<lb:subtema>Working In Linux </lb:subtema>
+    	<lb:subtema>Understanding Directories</lb:subtema>
+    	<lb:subtema>Using Commands Commands And Their Arguments </lb:subtema>
+    	<lb:subtema>Mastering Basic Commands Remember These E-,ential Linux Commands</lb:subtema>
+    	<lb:subtema>Understanding Permissions Permissions Represent File Or Directory Access Rights</lb:subtema>
+    	<lb:subtema>Creating Users Role Of A User</lb:subtema>
+    	<lb:subtema>Changing Passwords </lb:subtema>
+    	<lb:subtema>Editing Configuration Files </lb:subtema>
+     </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="How A DNS Server Works">
+  <lb:tema>How A DNS Server Works</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>How A DNS Server Works</lb:subtema>
+      <lb:subtema>Creating A DNS Server, Part 1 </lb:subtema>
+      <lb:subtema>Creating A DNS Server, Part 2 </lb:subtema>
+      <lb:subtema>Creating a DNS Server, Part 3 </lb:subtema>
+      <lb:subtema>Creating A DNS Server, Part 4</lb:subtema>
+      <lb:subtema>Creating A DNS Server, Part 5 </lb:subtema>
+      <lb:subtema>Testing The DNS Server, Part 1</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

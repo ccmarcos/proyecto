@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Introducción a la programación en Linux">
+  <lb:tema>Introducción a la programación en Linux</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+     	<lb:subtema>Programación en Linux</lb:subtema>
+     	<lb:subtema>Mas acerca de Linux</lb:subtema>
+  		<lb:subtema>Distribuciones de Linux</lb:subtema>
+  		<lb:subtema>Recursos de Linux</lb:subtema>
+     	<lb:subtema>Evaluación</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Scripts del Shell BASH">
+  <lb:tema>Scripts del Shell BASH</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+     <lb:subtema>Scripts del Shell: comandos y comentarios</lb:subtema>
+     <lb:subtema>Variables y scripts</lb:subtema>
+     <lb:subtema>Proyecto 2-1: Entrada del usuario</lb:subtema>
+     <lb:subtema>Proyecto 2-2: Exportar variables</lb:subtema>
+     <lb:subtema>Operaciones aritméticas del Shell: let</lb:subtema>
+     <lb:subtema>Evaluación…</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Estructuras de control del shell">
+  <lb:tema>Estructuras de control del shell</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+     <lb:subtema>El comando test</lb:subtema>
+     <lb:subtema>Condiciones: if, if-else, elif y case</lb:subtema>
+     <lb:subtema>Bucles: while, until, for-in y for</lb:subtema>
+     <lb:subtema>Proyecto 3-1: Bucles básicos…</lb:subtema>
+     <lb:subtema>Proyecto 3-2: Índice de páginas Web</lb:subtema>
+     <lb:subtema>Usar redireccionamiento e interconexiones con estructuras con estructuras de control</lb:subtema>
+     <lb:subtema>Estructuras de desvió: trap</lb:subtema>
+     <lb:subtema>Evaluación</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Programacion del shell TCSH">
+  <lb:tema>Programacion del shell TCSH</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+     <lb:subtema>Variables, scripts y argumentos del shell TCSH</lb:subtema>
+     <lb:subtema>Arreglos: () y #</lb:subtema>
+     <lb:subtema>Arreglo de argumentos: argv</lb:subtema>
+     <lb:subtema>Variables de entorno: setenv</lb:subtema>
+     <lb:subtema>Condiciones de Shell TCSH: if-then-else y switch</lb:subtema>
+     <lb:subtema>Proyecto 4-1: Menús con switch</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Condiciones de Shell TCSH: if-then-else y switch">
+  <lb:tema>Condiciones de Shell TCSH: if-then-else y switch</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>La estructura if-then</lb:subtema>
+      <lb:subtema>La estructura switch</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF>

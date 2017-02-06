@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Introducción al shell">
+<lb:tema>Introducción al shell</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Bienvenido a Linux</lb:subtema>
+      <lb:subtema>¿Qué es un shell?</lb:subtema>
+      <lb:subtema>Iniciar sesión en Linux</lb:subtema>
+      <lb:subtema>Cerrar sesión en Linux</lb:subtema>
+      <lb:subtema>Obtener Ayuda</lb:subtema>
+     </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Introducción comandos">
+  <lb:tema>Introducción comandos</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Introducir comandos en la línea de comandos del shell</lb:subtema>
+      <lb:subtema>Crear comandos en el shell </lb:subtema>
+      <lb:subtema>Controlar programas</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Desplazarse por el sistema de archivos de Linux">
+  <lb:tema>Desplazarse por el sistema de archivos de Linux</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Imprimir el directorio de trabajo en curso </lb:subtema>
+      <lb:subtema>Cambiar de directorio con el comando cd</lb:subtema>
+      <lb:subtema>Enumerar directorios</lb:subtema>
+      <lb:subtema>Ver archivos de texto</lb:subtema>
+      <lb:subtema>Crear archivos y directorios</lb:subtema>
+      <lb:subtema>Copiar archivos y directorios</lb:subtema>
+      <lb:subtema>Mover y cambiar el nombre de los archivos y directorios </lb:subtema>
+      <lb:subtema>Crear vínculos simbólicos</lb:subtema>
+      <lb:subtema>Eliminar archivos y directorios</lb:subtema>
+      <lb:subtema>Buscar archivos y directorios</lb:subtema>
+      <lb:subtema>Uso del cliente gmc de GNOME</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

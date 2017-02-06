@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+
+    <rdf:Description
+      rdf:about="Introducción">
+      <lb:tema>Introducción</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Evolución de los sistemas operativos</lb:subtema>
+             <lb:subtema>Tipos de sistemas operativos</lb:subtema>
+             <lb:subtema>Diferentes perspectivas de un sistema operativo</lb:subtema>
+             <lb:subtema>Recorrido de la ejecución de una orden</lb:subtema>
+             <lb:subtema>Diseño e implementación de sistemas operativos</lb:subtema>
+            <lb:subtema>Resumen</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Procesos">
+      <lb:tema>Procesos</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Concepto de proceso</lb:subtema>
+             <lb:subtema>Los procesos desde la perspectiva del programador de sistemas</lb:subtema>
+             <lb:subtema>Los procesos desde la perspectiva del sistema operativo</lb:subtema>
+             <lb:subtema>Servicios del sistema operativo para gestión de procesos</lb:subtema>
+             <lb:subtema>Planificación</lb:subtema>
+            <lb:subtema>Algoritmos de planificación</lb:subtema>
+            <lb:subtema>Evaluación del rendimiento</lb:subtema>
+            <lb:subtema>Resumen</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Sincronización entre procesos">
+      <lb:tema>Sincronización entre procesos</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Necesidad de sincronización entre procesos</lb:subtema>
+             <lb:subtema>Exclusión mutua</lb:subtema>
+             <lb:subtema>Semáforos</lb:subtema>
+             <lb:subtema>Soporte hardware para exclusión mutua</lb:subtema>
+             <lb:subtema>Implementación de semáforos con colas</lb:subtema>
+            <lb:subtema>Problemas clásicos en programación concurrente</lb:subtema>
+            <lb:subtema>Resumen</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Comunicación y sincronización entre procesos">
+      <lb:tema>Comunicación y sincronización entre procesos</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Regiones críticas y regiones críticas condicionales</lb:subtema>
+             <lb:subtema>Monitores</lb:subtema>
+             <lb:subtema>Mensajes</lb:subtema>
+             <lb:subtema>Sincronización y comunicación entre procesos en ADA</lb:subtema>
+             <lb:subtema>Interbloqueos</lb:subtema>
+            <lb:subtema>Resumen</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Gestión de memoria: asignación contigua">
+      <lb:tema>Gestión de memoria: asignación contigua</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Monitor de un solo proceso</lb:subtema>
+             <lb:subtema>Asignación de memoria particionada, estática</lb:subtema>
+             <lb:subtema>Asignación de memoria particionada, dinámica</lb:subtema>
+             <lb:subtema>Segmentación</lb:subtema>
+            <lb:subtema>Resumen</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+      <rdf:Description
+      rdf:about="Gestión de memoria: asignación no contigua">
+      <lb:tema>Gestión de memoria: asignación no contigua</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Paginación</lb:subtema>
+             <lb:subtema>Memoria virtual</lb:subtema>
+            <lb:subtema>Resumen</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Gestión de archivos">
+      <lb:tema>Gestión de archivos</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>El sistema de archivos desde la perspectiva del usuario del lenguaje de órdenes</lb:subtema>
+             <lb:subtema>El sistema de archivos desde la perspectiva del programador de sistemas</lb:subtema>
+            <lb:subtema>Organización del disco</lb:subtema>
+             <lb:subtema>Controlador y rutina del disco</lb:subtema>
+             <lb:subtema>La gestión de archivos desde la perspectiva del sistema operativo</lb:subtema>
+             <lb:subtema>Chaches de disco y cache de búferes en UNIX</lb:subtema>
+             <lb:subtema>Generalización de los servicios de archivos</lb:subtema>
+             <lb:subtema>Resumen</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Seguridad y protección">
+      <lb:tema>Seguridad y protección</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Amenazas y objetivos de seguridad</lb:subtema>
+             <lb:subtema>Intentos de penetración</lb:subtema>
+            <lb:subtema>Políticas y mecanismos de seguridad</lb:subtema>
+             <lb:subtema>Validación</lb:subtema>
+             <lb:subtema>Protección y control de acceso</lb:subtema>
+             <lb:subtema>Modelos formales de protección</lb:subtema>
+             <lb:subtema>Criptografía</lb:subtema>
+             <lb:subtema>Gusanos y virus</lb:subtema>
+             <lb:subtema>Resumen</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Entrada/salida: principios y programación">
+      <lb:tema>Entrada/salida: principios y programación</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>El problema de la entrada/salida</lb:subtema>
+             <lb:subtema>Interfaces de entrada/salida</lb:subtema>
+            <lb:subtema>Ejemplos de puertos de E/S</lb:subtema>
+             <lb:subtema>E/S Control por programa</lb:subtema>
+             <lb:subtema>E/S guiada por interruptores</lb:subtema>
+             <lb:subtema>E/S concurrente</lb:subtema>
+             <lb:subtema>Resumen</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Diseño del núcleo de un sistema operativo multitarea(KMOS)">
+      <lb:tema>Diseño del núcleo de un sistema operativo multitarea(KMOS)</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Definición de los servisio de KMOS</lb:subtema>
+             <lb:subtema>Principales desiciones de diseño</lb:subtema>
+            <lb:subtema>Transiciones de estado de los procesos en KMOS</lb:subtema>
+             <lb:subtema>Especificación funcional de KMOS</lb:subtema>
+             <lb:subtema>Consideraciones sobre la implementación</lb:subtema>
+             <lb:subtema>Resumen</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Implentación de KMOS">
+      <lb:tema>Implentación de KMOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Listas del sistema KMOS</lb:subtema>
+             <lb:subtema>La lista preparados y su manipulación</lb:subtema>
+            <lb:subtema>Comunicación y sincronización entre procesos</lb:subtema>
+             <lb:subtema>Gestión de procesos</lb:subtema>
+             <lb:subtema>Gestión de interrupciones</lb:subtema>
+            <lb:subtema>Arranque y configuración inicial del sistema</lb:subtema>
+             <lb:subtema>Resumen</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Sistemas multiprocesadores">
+      <lb:tema>Sistemas multiprocesadores</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Motivación y clasificación</lb:subtema>
+             <lb:subtema>Interconexiones en los multiprocesadores</lb:subtema>
+            <lb:subtema>Tipos de sistemas operativos multiprocesadores</lb:subtema>
+             <lb:subtema>Funciones y requisitos de los sistemas operativos multiprocesadores</lb:subtema>
+             <lb:subtema>Cuestiones de diseño e implementación del sistema operativos</lb:subtema>
+            <lb:subtema>Introducción a la programación paralela</lb:subtema>
+            <lb:subtema>Sincronización en multiprocesadores </lb:subtema>
+             <lb:subtema>Resumen</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Sistemas operativos distribuidos:algoritmos">
+      <lb:tema>Sistemas operativos distribuidos:algoritmos</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Motivación de los sistemas distribuidos</lb:subtema>
+             <lb:subtema>Redes de computadoras</lb:subtema>
+            <lb:subtema>Algoritmos para procesamiento distribuido</lb:subtema>
+             <lb:subtema>Tratamiento de fallos</lb:subtema>
+             <lb:subtema>Resumen</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

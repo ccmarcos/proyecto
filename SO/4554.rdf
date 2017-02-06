@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+<rdf:Description
+rdf:about="Historia de Linux">
+  <lb:tema>Historia de Linux</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Los antepasados directos: Unix y Minix </lb:subtema>
+      <lb:subtema>El padre de Linux: Linux Torvalds </lb:subtema>
+      <lb:subtema>El esfuerzo común</lb:subtema>
+      <lb:subtema>La filosofía de software libre </lb:subtema>
+      <lb:subtema>La expansión en Internet </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Instalación y configuración de Linux">
+  <lb:tema>Instalación y configuración de Linux</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Introducción</lb:subtema>
+      <lb:subtema>Consideraciones previas </lb:subtema>
+      <lb:subtema>Instalación de RedHat </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Inicio y cierre del sistema">
+  <lb:tema>Inicio y cierre del sistema</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Arranquedel hardware</lb:subtema>
+      <lb:subtema>El proceso init en el System V </lb:subtema>
+      <lb:subtema>Niveles de ejecución del proceso init</lb:subtema>
+      <lb:subtema>Elfichero /etc/inittab</lb:subtema>
+      <lb:subtema>El comando telenit</lb:subtema>
+      <lb:subtema>Árbol de directorio para el proceso init.d</lb:subtema>
+      <lb:subtema>Servicios disponibles en /etc/rc.d/initd </lb:subtema>
+      <lb:subtema>Algunos consejos sobre los servicios a tener en nuestra máquina </lb:subtema>
+      <lb:subtema>Configuración de los servicios que nos interesen</lb:subtema>
+      <lb:subtema>Parada del sistema </lb:subtema>
+      <lb:subtema>Sincronización de los discos en el proceso de cierre</lb:subtema>
+      <lb:subtema>Cuando el sistema cae </lb:subtema>
+     </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Administración de usuarios">
+  <lb:tema>Administración de usuarios</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Introducción </lb:subtema>
+      <lb:subtema>Conceptos básicos </lb:subtema>
+      <lb:subtema>Atributos fundamentales del usuario </lb:subtema>
+      <lb:subtema>Atributos de grupo</lb:subtema>
+      <lb:subtema>Creación de cuentas de usuario </lb:subtema>
+      <lb:subtema>Creación de grupos de usuarios</lb:subtema>
+      <lb:subtema>Modificación de cuentas de usuario</lb:subtema>
+      <lb:subtema>Modificación de grupos</lb:subtema>
+      <lb:subtema>Eliminación de cuentas de usuario</lb:subtema>
+      <lb:subtema>Eliminación de grupos de usuarios</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Programación Internet I: PHP">
+  <lb:tema>Programación Internet I: PHP</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Introduccion</lb:subtema>
+      <lb:subtema>Orígenes </lb:subtema>
+      <lb:subtema>Instalación </lb:subtema>
+      <lb:subtema>Los principios básicos de PHP </lb:subtema>
+      <lb:subtema>Tipos de datos  </lb:subtema>
+      <lb:subtema>Variables del exterior</lb:subtema>
+      <lb:subtema>¿Cómo subir archivos al servidor?</lb:subtema>
+      <lb:subtema>Acceso a bases de datos </lb:subtema>
+     </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

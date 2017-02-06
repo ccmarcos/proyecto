@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+
+    <rdf:Description
+     rdf:about="Biblioteca/3291.rdf">
+       <lb:ficha>3291</lb:ficha>
+       <lb:titulo>INTRODUCCION A LOS SISTEMAS OPERATIVOS</lb:titulo>
+       <lb:autor>DEITEL, HARVEY M.</lb:autor>
+       <lb:clasificacion>QA76.76 O63 D458</lb:clasificacion>
+       <lb:anio>1987</lb:anio>
+       <lb:ejemplares>1</lb:ejemplares>
+       <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+     rdf:about="Biblioteca/6339.rdf">
+       <lb:ficha>6339</lb:ficha> 
+       <lb:titulo>MICROSOFT MS-DOS USER'S GUIDE : VERSION 3.3</lb:titulo>
+       <lb:autor>MICROSOFT CORPORATION</lb:autor>
+       <lb:clasificacion>QA76.76 O63 M5</lb:clasificacion>
+       <lb:anio>1987</lb:anio>
+       <lb:ejemplares>1</lb:ejemplares>
+       <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+     rdf:about="Biblioteca/3827.rdf">
+        <lb:ficha>3827</lb:ficha> 
+       <lb:titulo>SISTEMAS OPERATIVOS, CONCEPTOS Y DISENO</lb:titulo>
+       <lb:autor>MILENKOVIC, MILAN</lb:autor>
+       <lb:clasificacion>QA76.76 O63 M54</lb:clasificacion>
+       <lb:anio>1988</lb:anio>
+       <lb:ejemplares>1</lb:ejemplares>
+       <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+     rdf:about="Biblioteca/6308.rdf">
+       <lb:ficha>6308</lb:ficha> 
+       <lb:titulo>MS-DOS VERSION 3.3 PLUS</lb:titulo>
+       <lb:autor>MICROSOFT CORPORATION</lb:autor>
+       <lb:clasificacion>QA76.76 O63 M537</lb:clasificacion>
+       <lb:anio>1988</lb:anio>
+       <lb:ejemplares>2</lb:ejemplares>
+       <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+     rdf:about="Biblioteca/6314.rdf">
+       <lb:ficha>6314</lb:ficha> 
+       <lb:titulo>MICROSOFT MS-DOS COMPUADD : USER'S GUIDE, USER'S R</lb:titulo>
+       <lb:autor>MICROSOFT CORPORATION</lb:autor>
+       <lb:clasificacion>QA76.76 O63 M5376764</lb:clasificacion>
+       <lb:anio>1988</lb:anio>
+       <lb:ejemplares>1</lb:ejemplares>
+       <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+           <rdf:Description
+rdf:about="Biblioteca/5852.rdf">
+  <lb:ficha>5852</lb:ficha>
+  <lb:titulo>OPERATING SYSTEMS</lb:titulo>
+  <lb:autor>MANDRICK, STUART E.</lb:autor>
+  <lb:clasificacion>QA76.76 O63 M33</lb:clasificacion>
+  <lb:anio>1974</lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>SISTEMAS OPERATIVOS</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Biblioteca/5871.rdf">
+  <lb:ficha>5871</lb:ficha>
+  <lb:titulo>/DISENO DE UN EJECUTIVO EN TIEMPO REAL PARA UNA MI</lb:titulo>
+  <lb:autor>FERNANDEZ PENA, JUAN M</lb:autor>
+  <lb:clasificacion>QA76.76 O63 F47</lb:clasificacion>
+  <lb:anio>1978</lb:anio>
+  <lb:ejemplares>2</lb:ejemplares>
+  <lb:area>SISTEMAS OPERATIVOS</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Biblioteca/5869.rdf">
+  <lb:ficha>5869</lb:ficha>
+  <lb:titulo>IMPLANTACION DE CP</lb:titulo>
+  <lb:autor>APODACA, NORMA</lb:autor>
+  <lb:clasificacion>QA76.76 O63 A66</lb:clasificacion>
+  <lb:anio>1985</lb:anio>
+  <lb:ejemplares>2</lb:ejemplares>
+  <lb:area>SISTEMAS OPERATIVOS</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Biblioteca/5902.rdf">
+  <lb:ficha>5902</lb:ficha>
+  <lb:titulo>SISTEMAS OPERATIVOS DE LA COMPUTACION</lb:titulo>
+  <lb:autor>DAVIS, WILLIAM S.</lb:autor>
+  <lb:clasificacion>QA76.76 O63 D39</lb:clasificacion>
+  <lb:anio>1985 </lb:anio>
+  <lb:ejemplares>1</lb:ejemplares>
+  <lb:area>SISTEMAS OPERATIVOS</lb:area>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Biblioteca/6311.rdf">
+  <lb:ficha>6311</lb:ficha>
+  <lb:titulo>MICROSOFT MS-DOS 6.22 PARA EL SISTEMA OPERATIVO MS</lb:titulo>
+  <lb:autor>MICROSOFT CORPORATION</lb:autor>
+  <lb:clasificacion>QA76.76 O63 M537676</lb:clasificacion>
+  <lb:anio>1985</lb:anio>
+  <lb:ejemplares>3</lb:ejemplares>
+  <lb:area>SISTEMAS OPERATIVOS</lb:area>
+</rdf:Description>
+
+  <rdf:Description
+    rdf:about="Biblioteca/6341.rdf">
+      <lb:ficha>6341</lb:ficha>
+      <lb:titulo>MICROSOFT MS-DOS SHELL USER'S GUIDE : VERSION 1.0</lb:titulo>
+      <lb:autor>MICROSOFT CORPORATION</lb:autor>
+      <lb:clasificacion>QA76.76 O63 M53767648</lb:clasificacion>
+      <lb:anio>1989</lb:anio>
+      <lb:ejemplares>1</lb:ejemplares>
+      <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+   <rdf:Description
+    rdf:about="Biblioteca/3288.rdf">
+      <lb:ficha>3288</lb:ficha>
+      <lb:titulo>AN INTRODUCTION TO OPERATING SYSTEMS</lb:titulo>
+      <lb:autor>DEITEL, HARVEY M.</lb:autor>
+      <lb:clasificacion>QA76.76 O63 D45</lb:clasificacion>
+      <lb:anio>1990</lb:anio>
+      <lb:ejemplares>3</lb:ejemplares>
+      <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+    rdf:about="Biblioteca/5962.rdf">
+      <lb:ficha>5962</lb:ficha>
+      <lb:titulo>OPERATING SYSTEM CONCEPTS</lb:titulo>
+      <lb:autor>SILBERSCHATZ, ABRAHAM</lb:autor>
+      <lb:clasificacion>QA76.76 O63 S54</lb:clasificacion>
+      <lb:anio>1991</lb:anio>
+      <lb:ejemplares>1</lb:ejemplares>
+      <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+    rdf:about="Biblioteca/6098.rdf">
+      <lb:ficha>6098</lb:ficha>
+      <lb:titulo>USING MS-DOS 5</lb:titulo>
+      <lb:autor></lb:autor>
+      <lb:clasificacion>QA76.76 O63 U85</lb:clasificacion>
+      <lb:anio>1991</lb:anio>
+      <lb:ejemplares>1</lb:ejemplares>
+      <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+    rdf:about="Biblioteca/6398.rdf">
+      <lb:ficha>6398</lb:ficha>
+      <lb:titulo>NOVELL NETWARE : CONFIGURACION Y ADMINISTRACION</lb:titulo>
+      <lb:autor>RAYA, JOSE LUIS</lb:autor>
+      <lb:clasificacion>QA76.76 O63 R39</lb:clasificacion>
+      <lb:anio>1991</lb:anio>
+      <lb:ejemplares>2</lb:ejemplares>
+      <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+    rdf:about="Biblioteca/6504.rdf">
+      <lb:ficha>6504</lb:ficha>
+      <lb:titulo>INTRODUCCION A NOVELL NETWARE</lb:titulo>
+      <lb:autor>GIMENO, CARLOS</lb:autor>
+      <lb:clasificacion>QA76.76 O63 G54</lb:clasificacion>
+      <lb:anio>1991</lb:anio>
+      <lb:ejemplares>3</lb:ejemplares>
+      <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+    rdf:about="Biblioteca/6613.rdf">
+      <lb:ficha>6613</lb:ficha>
+      <lb:titulo>NOVELL NETWARE A SU ALCANCE : ORDENES E INSTALACIO</lb:titulo>
+      <lb:autor>WEBER, DOUGLAS</lb:autor>
+      <lb:clasificacion>QA76.76 O63 W42</lb:clasificacion>
+      <lb:anio>1991</lb:anio>
+      <lb:ejemplares>1</lb:ejemplares>
+      <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+    rdf:about="Biblioteca/3179.rdf">
+      <lb:ficha>3179</lb:ficha>
+      <lb:titulo>MODERN OPERATING SYSTEMS</lb:titulo>
+      <lb:autor>TANENBAUM, ANDREW S.</lb:autor>
+      <lb:clasificacion>QA76.76 O63 T3</lb:clasificacion>
+      <lb:anio>1992</lb:anio>
+      <lb:ejemplares>1</lb:ejemplares>
+      <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+    rdf:about="Biblioteca/5905.rdf">
+      <lb:ficha>5905</lb:ficha>
+      <lb:titulo>SISTEMAS OPERATIVOS Y COMPILADORES</lb:titulo>
+      <lb:autor>SALAS PARRILLA, JESUS</lb:autor>
+      <lb:clasificacion>QA76.76 O63 S24</lb:clasificacion>
+      <lb:anio>1992</lb:anio>
+      <lb:ejemplares>3</lb:ejemplares>
+      <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+    rdf:about="Biblioteca/6238.rdf">
+      <lb:ficha>6238</lb:ficha>
+      <lb:titulo>INTRODUCCION A LA INFORMATICA Y AL SISTEMA OPERATI</lb:titulo>
+      <lb:autor>PLACENCIA AMOROZ, RAUL</lb:autor>
+      <lb:clasificacion>QA76.76 O63 P43</lb:clasificacion>
+      <lb:anio>1992</lb:anio>
+      <lb:ejemplares>4</lb:ejemplares>
+      <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+    rdf:about="Biblioteca/9278.rdf">
+      <lb:ficha>9278</lb:ficha>
+      <lb:titulo>MANAGING UUCP AND USENET</lb:titulo>
+      <lb:autor>O'REILLY, TIM</lb:autor>
+      <lb:clasificacion>QA76.76 O63 O74</lb:clasificacion>
+      <lb:anio>1992</lb:anio>
+      <lb:ejemplares>1</lb:ejemplares>
+      <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+    rdf:about="Biblioteca/3181.rdf">
+      <lb:ficha>3181</lb:ficha>
+      <lb:titulo>SISTEMAS OPERATIVOS MODERNOS</lb:titulo>
+      <lb:autor>TANENBAUM, ANDREW S.</lb:autor>
+      <lb:clasificacion>QA76.76 O63 T3645</lb:clasificacion>
+      <lb:anio>1993</lb:anio>
+      <lb:ejemplares>6</lb:ejemplares>
+      <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+    rdf:about="Biblioteca/3292.rdf">
+      <lb:ficha>3292</lb:ficha>
+      <lb:titulo>INTRODUCCION A LOS SISTEMAS OPERATIVOS</lb:titulo>
+      <lb:autor>DEITEL, HARVEY M.</lb:autor>
+      <lb:clasificacion>QA76.76 O63 D458</lb:clasificacion>
+      <lb:anio>1993</lb:anio>
+      <lb:ejemplares>3</lb:ejemplares>
+      <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+    rdf:about="Biblioteca/6096.rdf">
+      <lb:ficha>6096</lb:ficha>
+      <lb:titulo>EVERYDAY DOS</lb:titulo>
+      <lb:autor></lb:autor>
+      <lb:clasificacion>QA76.76 O63 E94</lb:clasificacion>
+      <lb:anio>1993</lb:anio>
+      <lb:ejemplares>1</lb:ejemplares>
+      <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+    rdf:about="Biblioteca/6157.rdf">
+      <lb:ficha>6157</lb:ficha>
+      <lb:titulo>THE DOS PRIMER</lb:titulo>
+      <lb:autor>CALVIN DOROTHY V</lb:autor>
+      <lb:clasificacion>QA76.76 O63 C34</lb:clasificacion>
+      <lb:anio>1993</lb:anio>
+      <lb:ejemplares>1</lb:ejemplares>
+      <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+    rdf:about="Biblioteca/3829.rdf">
+      <lb:ficha>3829</lb:ficha>
+      <lb:titulo>SISTEMAS OPERATIVOS : CONCEPTOS Y DISENO</lb:titulo>
+      <lb:autor>MILENKOVIC, MILAN</lb:autor>
+      <lb:clasificacion>QA76.76 O63 M54</lb:clasificacion>
+      <lb:anio>1994</lb:anio>
+      <lb:ejemplares>10</lb:ejemplares>
+      <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+     <rdf:Description
+    rdf:about="Biblioteca/6303.rdf">
+      <lb:ficha>6303</lb:ficha>
+      <lb:titulo>MICROSOFT MS-DOS Y MICROSOFT WINDOWS PARA TRABAJO</lb:titulo>
+      <lb:autor>MICROSOFT CORPORATION</lb:autor>
+      <lb:clasificacion>QA76.76 O63 M5376</lb:clasificacion>
+      <lb:anio>1994</lb:anio>
+      <lb:ejemplares>6</lb:ejemplares>
+      <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+    rdf:about="Biblioteca/6342.rdf">
+      <lb:ficha>6342</lb:ficha>
+      <lb:titulo>MICROSOFT MS-DOS 6.22 PARA EL SISTEMA OPERATIVO MS</lb:titulo>
+      <lb:autor>MICROSOFT CORPORATION</lb:autor>
+      <lb:clasificacion>QA76.76 O63 M53767</lb:clasificacion>
+      <lb:anio>1994</lb:anio>
+      <lb:ejemplares>1</lb:ejemplares>
+      <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+    rdf:about="Biblioteca/6493.rdf">
+      <lb:ficha>6493</lb:ficha>
+      <lb:titulo>ADVANCED CONCEPTS IN OPERATING SYSTEMS : DISTRIBUT</lb:titulo>
+      <lb:autor>SINGHAL MUKESH</lb:autor>
+      <lb:clasificacion>QA76.76 O63 S554</lb:clasificacion>
+      <lb:anio>1994</lb:anio>
+      <lb:ejemplares>1</lb:ejemplares>
+      <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+    <rdf:Description
+    rdf:about="Biblioteca/4266.rdf">
+      <lb:ficha>4266</lb:ficha>
+      <lb:titulo>MICROSOFT WINDOWS NT SERVER</lb:titulo>
+      <lb:autor>MICROSOFT CORPORATION</lb:autor>
+      <lb:clasificacion>QA76.76 O63 M53</lb:clasificacion>
+      <lb:anio>1996</lb:anio>
+      <lb:ejemplares>7</lb:ejemplares>
+      <lb:area>SISTEMAS OPERATIVOS</lb:area>
+    </rdf:Description>
+</rdf:RDF> 

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+    
+    <rdf:Description
+      rdf:about="Introducción al Sistema Operativo de Red Novell">
+      <lb:tema>Introducción al Sistema Operativo de Red Novell</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+                <lb:subtema>¿Qué es una red?</lb:subtema>
+                <lb:subtema>¿Qué es NetWare?</lb:subtema>
+                <lb:subtema>DOS</lb:subtema>
+                <lb:subtema>Windows</lb:subtema>
+                <lb:subtema>OS/2</lb:subtema>
+                <lb:subtema>Macintosh</lb:subtema>
+                <lb:subtema>UNIX</lb:subtema>
+                <lb:subtema>Recursos y servicios de red</lb:subtema>
+                <lb:subtema>Servicios del Directorio Netware</lb:subtema>
+                <lb:subtema>Seguridad</lb:subtema>
+                <lb:subtema>Sistema de archivos</lb:subtema>
+                <lb:subtema>Impresión en red</lb:subtema>
+                <lb:subtema>Servicios de gestión del almacenamiento</lb:subtema>
+                <lb:subtema>Servicio del sistema de gestión de mensajes</lb:subtema>
+                <lb:subtema>Árbol de Directorio(NDS)</lb:subtema>
+                <lb:subtema>Seguridad</lb:subtema>
+                <lb:subtema>Sistema de archivos</lb:subtema>
+                <lb:subtema>Impresión en red</lb:subtema>
+                <lb:subtema>Servicios de gestión del almacenamiento</lb:subtema>
+                <lb:subtema>Servicio de sistema de gestión de mensajes (MWS)</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Servicios del Directorio NetWare">
+      <lb:tema>Servicios del Directorio NetWare</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+                <lb:subtema>Composición del Directorio</lb:subtema>
+                <lb:subtema>Hojas ú objetos terminales 1</lb:subtema>
+                <lb:subtema>Terminología de denominación de objetos</lb:subtema>
+                <lb:subtema>Visualización y observación del árbol del Directorio</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Conexión y entrada a la red">
+      <lb:tema>Conexión y entrada a la red</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+                <lb:subtema>Habilitar la comunicación en la red</lb:subtema>
+                <lb:subtema>Almacenamiento de archivos en discos locales</lb:subtema>
+                <lb:subtema>Acceso a la visualización en pantalla</lb:subtema>
+                <lb:subtema>Acceso a la impresora</lb:subtema>
+                <lb:subtema>Acceso a las comunicaciones</lb:subtema>
+                <lb:subtema>Registro de entrada en la red</lb:subtema>
+                <lb:subtema>Unidad de red</lb:subtema>
+                <lb:subtema>Contexto</lb:subtema>
+                <lb:subtema>LOGIN.EXE</lb:subtema>
+                <lb:subtema>Registro de entrada</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Acceso a archivos de datos y a aplicaciones de la red">
+      <lb:tema>Acceso a archivos de datos y a aplicaciones de la red</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+                <lb:subtema>Introducción al sistema de archivos de la red</lb:subtema>
+                <lb:subtema>Volúmenes</lb:subtema>
+                <lb:subtema>Directorios y subdirectorios</lb:subtema>
+                <lb:subtema>Archivos</lb:subtema>
+                <lb:subtema>Visualización del sistema de archivos</lb:subtema>
+                <lb:subtema>Acceso al sistema de archivos</lb:subtema>
+                <lb:subtema>Asignación de unidades de red mediante MAP</lb:subtema>
+                <lb:subtema>Acceso a volúmenes y directorios</lb:subtema>
+                <lb:subtema>Acceso a las aplicaciones de red</lb:subtema>
+                <lb:subtema>Asignación de unidades de búsqueda</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Servicios de Impresión">
+      <lb:tema>Servicios de Impresión</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+                <lb:subtema>Descripción general de la impresión en red</lb:subtema>
+                <lb:subtema>Cola de impresión</lb:subtema>
+                <lb:subtema>Servidor de impresión</lb:subtema>
+                <lb:subtema>Impresoras</lb:subtema>
+                <lb:subtema>Redireccionamiento de tareas de impresión</lb:subtema>
+                <lb:subtema>Redirigir una tarea de impresión que se ha enviado a un puerto de impresora</lb:subtema>
+                <lb:subtema>Redirigir un archivo de impresión</lb:subtema>
+                <lb:subtema>Redireccionamiento de tareas de impresión mediante CAPTURE</lb:subtema>
+                <lb:subtema>Cómo enviar tareas de impresión mediante NPRINT</lb:subtema>
+                <lb:subtema>Conexión de una impresora a la red</lb:subtema>
+                <lb:subtema>Personalización de las tareas de impresión</lb:subtema>
+                <lb:subtema>Impresora a usar</lb:subtema>
+                <lb:subtema>Cola de impresión a usar</lb:subtema>
+                <lb:subtema>Número de copias a imprimir</lb:subtema>
+                <lb:subtema>Página de portada</lb:subtema>
+                <lb:subtema>Formulario de impresión</lb:subtema>
+                <lb:subtema>Modo del dispositivo de impresión</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Seguridad en NetWare">
+      <lb:tema>Seguridad en NetWare</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+                <lb:subtema>Seguridad de entrada</lb:subtema>
+                <lb:subtema>Trustees</lb:subtema>
+                <lb:subtema>Derechos de directorio y de archivo</lb:subtema>
+                <lb:subtema>Herencia y Filtros de derechos heredados (FDH)</lb:subtema>
+                <lb:subtema>Atributos</lb:subtema>
+                <lb:subtema>Derechos efectivos</lb:subtema>
+                <lb:subtema>Derechos de directorio y de archivo</lb:subtema>
+                <lb:subtema>Supervisión</lb:subtema>
+                <lb:subtema>Lectura</lb:subtema>
+                <lb:subtema>Escritura</lb:subtema>
+                <lb:subtema>Creación</lb:subtema>
+                <lb:subtema>Borrado</lb:subtema>
+                <lb:subtema>Modificación</lb:subtema>
+                <lb:subtema>Exploración de archivo</lb:subtema>
+                <lb:subtema>Control de acceso</lb:subtema>
+                <lb:subtema>Trustees</lb:subtema>
+                <lb:subtema>Herencia</lb:subtema>
+                <lb:subtema>Nueva asignación de Trustee</lb:subtema>
+                <lb:subtema>Filtro de derechos heredados (FDH)</lb:subtema>
+                <lb:subtema>Derechos efectivos</lb:subtema>
+                <lb:subtema>Seguridad de atributo</lb:subtema>
+                <lb:subtema>MENÚ DE USUARIOS NOVELL</lb:subtema>
+                <lb:subtema>Menu de Novell 1</lb:subtema>
+                <lb:subtema>Información general</lb:subtema>
+                <lb:subtema>Aplicaciones disponibles</lb:subtema>
+                <lb:subtema>Instalar la aplicación</lb:subtema>
+                <lb:subtema>Ejecutar la aplicación</lb:subtema>
+                <lb:subtema>Aplicaciones de Microsoft</lb:subtema>
+                <lb:subtema>Statgraphics</lb:subtema>
+                <lb:subtema>Gestión de archivos y directorios</lb:subtema>
+                <lb:subtema>Gestión de impresoras y unidades</lb:subtema>
+                <lb:subtema>Impresoras en red (Administración)</lb:subtema>
+                <lb:subtema>Impresoras en red (doc. e investigadores)</lb:subtema>
+                <lb:subtema>Comandos simples</lb:subtema>
+                <lb:subtema>Sus derechos en cualquier directorio</lb:subtema>
+                <lb:subtema>Unidades asignadas</lb:subtema>
+                <lb:subtema>Contexto actual</lb:subtema>
+                <lb:subtema>Cambiar de contexto</lb:subtema>
+                <lb:subtema>Cambiar el password</lb:subtema>
+                <lb:subtema>Documentación disponible</lb:subtema>
+                <lb:subtema>Salir</lb:subtema>
+                <lb:subtema>Salida a DOS</lb:subtema>
+                <lb:subtema>Salida a DOS y desconexión del sistema</lb:subtema>
+                <lb:subtema>FILER</lb:subtema>
+                <lb:subtema>Gestionar archivos y directorios</lb:subtema>
+                <lb:subtema>Gestionar de acuerdo a un patrón de búsqueda</lb:subtema>
+                <lb:subtema>Seleccionar el directorio actual</lb:subtema>
+                <lb:subtema>Ver información del volumen</lb:subtema>
+                <lb:subtema>Recuperar archivos suprimidos</lb:subtema>
+                <lb:subtema>Limpiar archivos suprimidos</lb:subtema>
+                <lb:subtema>Definir opciones por defecto de FILER</lb:subtema>
+                <lb:subtema>Gestionar archivos y directorios</lb:subtema>
+                <lb:subtema>Operaciones sobre directorios</lb:subtema>
+                <lb:subtema>Operaciones sobre archivos</lb:subtema>
+                <lb:subtema>Gestionar de acuerdo a un patrón de búsqueda</lb:subtema>
+                <lb:subtema>Seleccionar el directorio actual</lb:subtema>
+                <lb:subtema>Ver información del volumen</lb:subtema>
+                <lb:subtema>Recuperar archivos suprimidos</lb:subtema>
+                <lb:subtema>Limpiar archivos suprimidos</lb:subtema>
+                <lb:subtema>Definir opciones por defecto de FILER</lb:subtema>
+                <lb:subtema>NETUSER</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

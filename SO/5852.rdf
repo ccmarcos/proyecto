@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="FRAMEWORK OF BOOK">
+  <lb:tema>FRAMEWORK OF BOOK</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Importace of Operating Systems</lb:subtema>
+      <lb:subtema>Basic Concepts and Terminology</lb:subtema>
+      <lb:subtema>An Operating System Resource Manager</lb:subtema>
+      <lb:subtema>An Operating Systems-Process Viewpoint( Where These Resource Managers Are Activated)</lb:subtema>
+      <lb:subtema>Others Views of an Operating System</lb:subtema>
+      <lb:subtema>General Desing Considerations</lb:subtema>
+      <lb:subtema>Prelude of Things to Come</lb:subtema>
+      <lb:subtema>Summary</lb:subtema>
+      <lb:subtema>Questions</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="I/O PROGRAMMING, INTERRUPT PROGRAMMING, MACHINE STRUCTURE">
+  <lb:tema>I/O PROGRAMMING, INTERRUPT PROGRAMMING, MACHINE STRUCTURE</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Machine Structure</lb:subtema>
+      <lb:subtema>Assembly Language Programming</lb:subtema>
+      <lb:subtema>I/O Programing</lb:subtema>
+      <lb:subtema>Interrupt Structure and Processing</lb:subtema>
+      <lb:subtema>Examples of I/O and Interrupt Processing Programs</lb:subtema>
+      <lb:subtema>Summary</lb:subtema>
+      <lb:subtema>Questions</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="I/O PROGRAMMING, INTERRUPT PROGRAMMING, MACHINE STRUCTURE">
+  <lb:tema>I/O PROGRAMMING, INTERRUPT PROGRAMMING, MACHINE STRUCTURE</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Single Contiguous Allocation</lb:subtema>
+      <lb:subtema>Introduction to Multiprogramming</lb:subtema>
+      <lb:subtema>Partitioned Allocation</lb:subtema>
+      <lb:subtema>Relocatable Partitioned Memory Management</lb:subtema>
+      <lb:subtema>Paged Memory Management</lb:subtema>
+      <lb:subtema>Demand-Paged Memory Management</lb:subtema>
+      <lb:subtema>Segmented Memory Managemen</lb:subtema>
+      <lb:subtema>Segmented and Demand-Paged Memory Management</lb:subtema>
+      <lb:subtema>Others Memory Management Schems</lb:subtema>
+      <lb:subtema>Future Theds in Memory Management</lb:subtema>
+      <lb:subtema>Summary</lb:subtema>
+      <lb:subtema>Question</lb:subtema>
+  </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="PROCESSOR MANAGEMENT">
+  <lb:tema>PROCESSOR MANAGEMENT</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>State Model</lb:subtema>
+      <lb:subtema>Job Scheduling</lb:subtema>
+      <lb:subtema>Process Scheduling</lb:subtema>
+      <lb:subtema>Multiporcessor Systems</lb:subtema>
+      <lb:subtema>Process Synchronization</lb:subtema>
+      <lb:subtema>Combined Job and Process Sheduling</lb:subtema>
+      <lb:subtema>Summary</lb:subtema>
+      <lb:subtema>Questions</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Techniques for Device Management">
+  <lb:tema>Techniques for Device Management</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Techniques for Device Management</lb:subtema>
+      <lb:subtema>Device Characteristics-Hardware Considerations</lb:subtema>
+      <lb:subtema>Channels Allocation Considerations</lb:subtema>
+      <lb:subtema>Virtual Devices</lb:subtema>
+      <lb:subtema>Future Trends in Device Management</lb:subtema>
+      <lb:subtema>Summary</lb:subtema>
+      <lb:subtema>Questions</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="INFORMATION MANGEMENT">
+  <lb:tema>INFORMATION MANGEMENT</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Introduction</lb:subtema>
+      <lb:subtema>A Simple File System</lb:subtema>
+      <lb:subtema>General Model of a file System</lb:subtema>
+      <lb:subtema>Symbolic File System</lb:subtema>
+      <lb:subtema></lb:subtema>
+      <lb:subtema>Access Control Verification</lb:subtema>
+      <lb:subtema>Logical File System</lb:subtema>
+      <lb:subtema>Physical File System</lb:subtema>
+      <lb:subtema>Allocation Strategy Module</lb:subtema>
+      <lb:subtema>Device Strategy module, I/O Initiator, Device Handler</lb:subtema>
+      <lb:subtema>Trends in Information Management</lb:subtema>
+      <lb:subtema>Questions</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Desing Overview">
+  <lb:tema>Desing Overview</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Introduction</lb:subtema>
+      <lb:subtema>Overview of the System</lb:subtema>
+      <lb:subtema>Desing Overview</lb:subtema>
+      <lb:subtema>Level and Layers of the Sample Operating System</lb:subtema>
+      <lb:subtema>Nucleus Databases and Routines</lb:subtema>
+      <lb:subtema>Processor Management (Lower Module) Databases</lb:subtema>
+      <lb:subtema>Processor Management (Lower Module) Routines</lb:subtema>
+      <lb:subtema>Memory Management Databases</lb:subtema>
+      <lb:subtema>Memory Management Routimes</lb:subtema>
+      <lb:subtema>Processor Management(Upper Module) Databases</lb:subtema>
+      <lb:subtema>Processor Management (UpperModule) Routines</lb:subtema>
+      <lb:subtema>Device Management Databases</lb:subtema>
+      <lb:subtema>Device Management Routine and Processes</lb:subtema>
+      <lb:subtema>Supervisor Routime and Process</lb:subtema>
+      <lb:subtema>User Programas and Processes</lb:subtema>
+      <lb:subtema>Partial Trace of SVC</lb:subtema>
+      <lb:subtema>Sample Operating System Program Listings</lb:subtema>
+      <lb:subtema>Questions</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Device Management">
+   <lb:tema>Device Management</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Memory Management</lb:subtema>
+      <lb:subtema>Processor Management</lb:subtema>
+      <lb:subtema>Device Managenement</lb:subtema>
+      <lb:subtema>Informaciont Management </lb:subtema>
+      <lb:subtema>Tradeoffs over Which the User Has Control</lb:subtema>
+      <lb:subtema>Influences</lb:subtema>
+      <lb:subtema>Swapping versus Paging</lb:subtema>
+      <lb:subtema>Trashing </lb:subtema>
+      <lb:subtema>Conclusion</lb:subtema>
+      <lb:subtema>Questions</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="IBM System/360 Operating Systems">
+   <lb:tema>IBM System/360 Operating Systems</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Introduction</lb:subtema>
+      <lb:subtema>IBM system/360 Operating systems</lb:subtema>
+      <lb:subtema>The Comptatible time-Sharing System(CTSS)</lb:subtema>
+      <lb:subtema>Multiplexed Information and Computing System(MULTICS)</lb:subtema>
+      <lb:subtema>Virtual Machine/370 (VM/370)</lb:subtema>
+      <lb:subtema>Questions</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="ANNOTATED BIBLIOGRAPHY">
+   <lb:tema>ANNOTATED BIBLIOGRAPHY</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Cross References to Annotated Bibliography</lb:subtema>
+      <lb:subtema>Annotated biblography</lb:subtema>
+      <lb:subtema>APPENDIX A IBM 360/370 SPECIFICATIONS</lb:subtema>
+      <lb:subtema>APPENDIX B INTRODUCTION TO MICROPROGRAMMING</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

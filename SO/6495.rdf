@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Recetario del cliente de red">
+  <lb:tema>Recetario del cliente de red</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Un mundo conectado mediante sockets</lb:subtema>
+      <lb:subtema>Generalidades del direccionamiento TCP/IP </lb:subtema>
+      <lb:subtema>Escucha del servidor: el algoritmo básico del cliente </lb:subtema>
+      <lb:subtema>Resumen: ¿qué ocurre entre bastidores?</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Elocuencia del lenguaje de red TCP/IP">
+  <lb:tema>Elocuencia del lenguaje de red TCP/IP</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+    	<lb:subtema>Generalidades de la numeración IP</lb:subtema>
+    	<lb:subtema>Números de puertos de host IP</lb:subtema>
+    	<lb:subtema>Ordenación de bytes de red</lb:subtema>
+    	<lb:subtema>Diferentes clases de sockaddr</lb:subtema>
+    	<lb:subtema>Canales con nombre de UNIX </lb:subtema>
+    	<lb:subtema>Resumen: aplicación de herramientas y numeración IP</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Tipos de paquetes de Internet">
+  <lb:tema>Tipos de paquetes de Internet</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema></lb:subtema>
+      <lb:subtema>Números de puertos de host IP</lb:subtema>
+      <lb:subtema></lb:subtema>
+      <lb:subtema>Diferentes clases de sockaddr</lb:subtema>
+      <lb:subtema>Canales con nombre de UNIX</lb:subtema>
+      <lb:subtema>Resumen: aplicación de herramientas y numeración IP</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Tipos de paquetes de Internet">
+  <lb:tema>Tipos de paquetes de Internet</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>El paquete de red fundamental</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Envío de mensajes entrepeers">
+  <lb:tema>Envío de mensajes entrepeers</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>¿Qué son los sockets basados en la conexión?</lb:subtema>
+      <lb:subtema>Ejemplo: conexión al demonio HTTP</lb:subtema>
+      <lb:subtema>¿Qué son los sockets sin conexión?</lb:subtema>
+      <lb:subtema>Envío de un mensaje directo </lb:subtema>
+      <lb:subtema>Garantía de llegada de un mensaje UDP</lb:subtema>
+      <lb:subtema>Tareas enrevesadas: una introducción a la multitarea </lb:subtema>
+      <lb:subtema>Resumen: modelos conectados frente a modelos sin conexión</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Generalidades sobre el servidor">
+   <lb:tema>Generalidades sobre el servidor</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Asignación del socket: el flujo de programa general del servidor</lb:subtema>
+      <lb:subtema>Un servidor de eco sencillo</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

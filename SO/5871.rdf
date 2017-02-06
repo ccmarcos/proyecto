@@ -1,0 +1,50 @@
+
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Sistemas operativos en general">
+  <lb:tema>Sistemas operativos en general</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Terminología</lb:subtema>
+      <lb:subtema>Procesos secuenciales</lb:subtema>
+      <lb:subtema>Procesos concurrentes</lb:subtema>
+      <lb:subtema>Sincronía y comunicación entre procesos</lb:subtema>
+      <lb:subtema>Necesidades que originan los procesos concurrentes</lb:subtema>
+      <lb:subtema>El despachador</lb:subtema>
+      <lb:subtema>Uso compartido de memoria</lb:subtema>
+      <lb:subtema>Funciones y tipo de sistemas operativos</lb:subtema>
+      <lb:subtema>Bibliografía</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Ejecutivos en tiempo real(ETR)">
+  <lb:tema>Ejecutivos en tiempo real(ETR)</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Lanzamiento de procesos en tiempo real</lb:subtema>
+      <lb:subtema>Funciones de un ejecutivo de tiempo real(ETR)</lb:subtema>
+      <lb:subtema> Partes constitutivas de un ejecutivo de tiempo real</lb:subtema>
+      <lb:subtema>Seguridad del sistema</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Ejecutivo en tiempo real para microcomputadoras">
+  <lb:tema>Ejecutivo en tiempo real para microcomputadoras</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Características comunes</lb:subtema>
+      <lb:subtema>Tabla comparativa de los Ejecutivos en Tiempo Real</lb:subtema>
+      <lb:subtema>Conclusión</lb:subtema>
+      <lb:subtema>Bibliografía</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

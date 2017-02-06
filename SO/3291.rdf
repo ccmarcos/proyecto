@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+    
+    <rdf:Description
+      rdf:about="Introducción">
+      <lb:tema>Introducción</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Evolución de los sistemas operativos</lb:subtema>
+             <lb:subtema>Tipos de sistemas operativos</lb:subtema>
+             <lb:subtema>Diferentes visiones de los sistemas operativos</lb:subtema>
+             <lb:subtema>Diseño e implementación de los sistemas operativos</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Entrada/Salida: Principios y programación">
+      <lb:tema>Entrada/Salida: Principios y programación</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>El problema de entrada/salida</lb:subtema>
+             <lb:subtema>Interfaces de entrada/salida</lb:subtema>
+             <lb:subtema>Ejemplos de puertos de E/S</lb:subtema>
+             <lb:subtema>E/S controlada por programa</lb:subtema>
+             <lb:subtema>E/S controlada por interrupciones</lb:subtema>
+            <lb:subtema>Control de un dispositivo único</lb:subtema>
+            <lb:subtema>Control de dispositivos multiples</lb:subtema>
+            <lb:subtema>E/S concurrente</lb:subtema>
+            <lb:subtema>Resumen</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Procesos">
+      <lb:tema>Procesos</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>El concepto de un proceso</lb:subtema>
+             <lb:subtema>Visión que el programador de sistemas tiene de los procesos</lb:subtema>
+             <lb:subtema>Visión de los procesos desde el punto de vista del sistema operativo</lb:subtema>
+             <lb:subtema>Servicios del sistema operativo para la gestión de procesos</lb:subtema>
+             <lb:subtema>Planificación</lb:subtema>
+            <lb:subtema>Algoritmos de planificación </lb:subtema>
+            <lb:subtema>Resumen</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Sincronización entre procesos">
+      <lb:tema>Sincronización entre procesos</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>El problema de la sincronización entre procesos </lb:subtema>
+             <lb:subtema>Exclusión mutua </lb:subtema>
+             <lb:subtema>Semáforos</lb:subtema>
+             <lb:subtema>Soporte de hardware para la exclusión mutua </lb:subtema>
+             <lb:subtema>Revisión de semáforos </lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Comunicación y sincronización entre procesos">
+      <lb:tema>Comunicación y sincronización entre procesos</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Región crítica y región crítica condicional</lb:subtema>
+             <lb:subtema>Monitores</lb:subtema>
+             <lb:subtema>Mensajes</lb:subtema>
+             <lb:subtema>Sincronización y comunicación entre procesos ADA</lb:subtema>
+             <lb:subtema>Interbloques</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Gestión de la memoria: Asignación de espacio contiguo">
+      <lb:tema>Gestión de la memoria: Asignación de espacio contiguo</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Monitor de proceso único</lb:subtema>
+             <lb:subtema>Asignación estática de memoria particionada</lb:subtema>
+             <lb:subtema>Asignación dinámica de memoria particionada</lb:subtema>
+             <lb:subtema>Segmentación</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

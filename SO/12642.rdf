@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="¿Qué es Linux?">
+  <lb:tema>¿Qué es Linux?</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>¿Qué es Linux? </lb:subtema>
+      <lb:subtema>Distribuciones de Linux</lb:subtema>
+      <lb:subtema>El proyecto de base estándar para Linux (LSB, Linux Standard Base project)</lb:subtema>
+      <lb:subtema>El Linux Professional Institute (Instituto profesional de Linux) y la Certificación Linux </lb:subtema>
+      <lb:subtema>Cómo se adapta Linux a otros entornos de trabajo en red</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="¿Que es GNOME?">
+  <lb:tema>¿Qué es GNOME?</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>¿Que es GNOME? </lb:subtema>
+      <lb:subtema>Instalación de GNOME </lb:subtema>
+      <lb:subtema>Selección de GNOME </lb:subtema>
+      <lb:subtema>Elementos básicos del escritorio </lb:subtema>
+      <lb:subtema>Ejecución de programas </lb:subtema>
+      <lb:subtema>Cómo salir de GNOME</lb:subtema>
+      <lb:subtema>Funcionalidad de GNOME</lb:subtema>
+      <lb:subtema>Configuración de GNOME con el Centro de control</lb:subtema>
+      <lb:subtema>Configuración del Panel</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF>

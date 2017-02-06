@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+
+    <rdf:Description
+      rdf:about="La computación">
+      <lb:tema>La computación</lb:tema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Las computadoras">
+      <lb:tema>Las computadoras</lb:tema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Los programas">
+      <lb:tema>Los programas</lb:tema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="El sistema operativo">
+       <lb:tema>El sistema operativo</lb:tema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="La versión 5.0 del MS-DOS">
+       <lb:tema>La versión 5.0 del MS-DOS</lb:tema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Comandos de archivos">
+      <lb:tema>Comandos de archivos</lb:tema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Comandos para discos">
+      <lb:tema>Comandos para discos</lb:tema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Comandos para procesamiento por lotes">
+      <lb:tema>Comandos para procesamiento por lotess</lb:tema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Comandos para dispositivos">
+      <lb:tema>Comandos para dispositivos</lb:tema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Refencias">
+      <lb:tema>Refencias</lb:tema>
+    </rdf:Description>
+</rdf:RDF> 

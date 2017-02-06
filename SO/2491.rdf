@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+<rdf:Description
+rdf:about="Introducción">
+  <lb:tema>Introducción</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Temas de administración </lb:subtema>
+      <lb:subtema>Cómo recabar información del sistema </lb:subtema>
+      <lb:subtema>Respaldo de archivos importantes!</lb:subtema>
+      <lb:subtema>Ejecución en el último día del mes </lb:subtema>
+      <lb:subtema>Manejo de los demonios no deseados</lb:subtema>
+      <lb:subtema>Cómo conservar vivos a esos demonios</lb:subtema>
+      <lb:subtema>fuser en lugar de ps </lb:subtema>
+      <lb:subtema>Intercambio sobre la marcha</lb:subtema>
+      <lb:subtema>El comando nohup</lb:subtema>
+      <lb:subtema>Redireccionamiento de la salida a null</lb:subtema>
+      <lb:subtema>Cómo mantener fuera a los usuarios remoto</lb:subtema>
+      <lb:subtema>Cómo rebobinar rápido sus cintas</lb:subtema>
+      <lb:subtema>Generación de un rango de números</lb:subtema>
+      <lb:subtema>Cómo eliminar guiones</lb:subtema>
+      <lb:subtema>echo en lugar de ls</lb:subtema>
+      <lb:subtema>Creación de archivos simulados extensos</lb:subtema>
+      <lb:subtema>Cómo probar unidades de disco </lb:subtema>
+      <lb:subtema>Cómo cerrar un sistema</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Conectividad de redes">
+  <lb:tema>Conectividad de redes</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Modelo OSI de conectividad de redes </lb:subtema>
+      <lb:subtema>Cómo buscar una fallas</lb:subtema>
+      <lb:subtema>Cómo ocultar archivos  en NFS</lb:subtema>
+      <lb:subtema>Configuraciónes remotas de redes</lb:subtema>
+      <lb:subtema>Cierre detención o reinicio a traves de la red</lb:subtema>
+      <lb:subtema>Comunicacitm entre NFS3 y NFS2 </lb:subtema>
+      <lb:subtema>Desmontaje y dispositivos ocupados</lb:subtema>
+      <lb:subtema>Ruteo estático o routed </lb:subtema>
+      <lb:subtema>Obtención de la dirección Eternet con arp </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Seguridad">
+  <lb:tema>Seguridad</lb:tema>
+  <lb:subtema>
+    <rdf:Seq> 
+      <lb:subtema>Proporcione acceso tipo root múltiples administradores</lb:subtema>
+      <lb:subtema>La ruta de acceso completa al superusuario</lb:subtema>
+      <lb:subtema>Monitoree el uso de root en el archivo de contraseñas</lb:subtema>
+      <lb:subtema>Puntos vulnerables de UNIX </lb:subtema>
+      <lb:subtema>Niveles de permiso </lb:subtema>
+      <lb:subtema>Proteja la cuenta root a toda costa</lb:subtema>
+      <lb:subtema>Recolección de archivos </lb:subtema>
+      <lb:subtema>Encriptación de archivos </lb:subtema>
+      <lb:subtema>Borrar y bloquear</lb:subtema>
+      <lb:subtema>Herramientas de poder </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Monitoreo del sistema ">
+  <lb:tema>Monitoreo del sistema</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Monitoreo al tiempo de arranque</lb:subtema>
+      <lb:subtema>Inicio con una instalación nueva</lb:subtema>
+      <lb:subtema>Monitoreo con tail </lb:subtema>
+      <lb:subtema>Corte de archivos de registro a la mitad </lb:subtema>
+      <lb:subtema>Envio de notificaciones sobre procesos vía correo electrónico </lb:subtema>
+      <lb:subtema>Cómo vigilar el espacio en disco </lb:subtema>
+      <lb:subtema>Encuentre el acaparador de espacio en disco</lb:subtema>
+      <lb:subtema>Cómo vigilar las diferencias con grep </lb:subtema>
+      <lb:subtema>Monitoreo con ping </lb:subtema>
+      <lb:subtema>Monitoreo de archivos core</lb:subtema>
+      <lb:subtema>Monitoreo de los archivos de caída  </lb:subtema>
+      <lb:subtema>No olvide el horario de verano</lb:subtema>
+      <lb:subtema>Revisión de la hora </lb:subtema>
+      <lb:subtema>Administración de cuentas</lb:subtema>
+      <lb:subtema>Nombres de cuenta de usuari</lb:subtema>
+      <lb:subtema>Contraseñas</lb:subtema>
+      <lb:subtema>UID</lb:subtema>
+      <lb:subtema>Identificaciones de grupo y /etc/group</lb:subtema>
+      <lb:subtema>El campo GECOS</lb:subtema>
+      <lb:subtema>Directorios base </lb:subtema>
+      <lb:subtema>Los shells y el archivo de contraseñas</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Cómo configurar una cuenta">
+<lb:tema>Cómo configurar una cuenta</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Los archivos de inicio de las cuentas de usuario </lb:subtema>
+      <lb:subtema>El uso de los alias</lb:subtema>
+      <lb:subtema>Usuarios de MS-DOS</lb:subtema>
+      <lb:subtema>Cómo cambiar de shells</lb:subtema>
+      <lb:subtema>Cómo saber en qué pantalla se encuentra</lb:subtema>
+      <lb:subtema>Cómo copiar archivos a múltiples directorios base</lb:subtema>
+      <lb:subtema>Cómo terminar una sesión</lb:subtema>
+      <lb:subtema>Cómo deshabilitar la contraseña de root sin usar vi</lb:subtema>
+      <lb:subtema>Descripción   Administración de archivos</lb:subtema>
+      <lb:subtema>Copia de archivos con permisos y estampillas de tiempo</lb:subtema>
+      <lb:subtema>Copia remota de archivos</lb:subtema>
+      <lb:subtema>¿Cuál área tmp es la mejor para archivos temporales? </lb:subtema>
+      <lb:subtema>Manejo de vínculos simbólicos</lb:subtema>
+      <lb:subtema>Cómo encontrar archivos con grep </lb:subtema>
+      <lb:subtema>grep múltiple </lb:subtema>
+      <lb:subtema>Ejecución recursiva de comandos con find </lb:subtema>
+      <lb:subtema>Cómo mover y renombrar grupos de archivos</lb:subtema>
+      <lb:subtema>Depuración de páginas del manual </lb:subtema>
+      <lb:subtema>Depuración de archivos DOS </lb:subtema>
+      <lb:subtema>División de archivos </lb:subtema>
+      <lb:subtema>Limitación del tamaño del core</lb:subtema>
+      <lb:subtema>uuencode y uudecode</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

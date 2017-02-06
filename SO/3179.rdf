@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+
+    <rdf:Description
+      rdf:about="INTRODUCTION">
+      <lb:tema>INTRODUCTION</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>WHAT IS AN OPERATING SYSTEM?</lb:subtema>
+             <lb:subtema>HISTORY OF OPERATING SYSTEMS</lb:subtema>
+             <lb:subtema>COMPUTER HARDWARE REVIEW</lb:subtema>
+             <lb:subtema>THE OPERATING SYSTEM ZOO</lb:subtema>
+             <lb:subtema>OPERATING SYSTEM CONCEPTS</lb:subtema>
+            <lb:subtema>SYSTEM CALLS</lb:subtema>
+            <lb:subtema>OPERATING SYSTEM STRUCTURE</lb:subtema>
+            <lb:subtema>THE WORLD ACCORDING TO C</lb:subtema>
+            <lb:subtema>RESEARCH ON OPERATING SYSTEMS</lb:subtema>
+            <lb:subtema>OUTLINE OF THE REST OF THIS BOOK</lb:subtema>
+            <lb:subtema>METRIC UNITS</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="PROCESSES AND THREADS">
+      <lb:tema>PROCESSES AND THREADS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>PROCESSES</lb:subtema>
+             <lb:subtema>THREADS</lb:subtema>
+             <lb:subtema>INTERPROCESS COMMUNICATION</lb:subtema>
+             <lb:subtema>SCHEDULING</lb:subtema>
+             <lb:subtema>CLASSICAL IPC PROBLEMS</lb:subtema>
+            <lb:subtema>RESEARCH ON PROCESSES AND THREADS</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="MEMORY MANAGEMENT">
+      <lb:tema>MEMORY MANAGEMENT</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>NO MEMORY ABSTRACTION</lb:subtema>
+             <lb:subtema>A MEMORY ABSTRACTION: ADDRESS SPACES</lb:subtema>
+             <lb:subtema>VIRTUAL MEMORY</lb:subtema>
+             <lb:subtema>PAGE REPLACEMENT ALGORITHMS</lb:subtema>
+             <lb:subtema>DESIGN ISSUES FOR PAGING SYSTEMS</lb:subtema>
+            <lb:subtema>IMPLEMENTATION ISSUES</lb:subtema>
+            <lb:subtema>SEGMENTATION</lb:subtema>
+            <lb:subtema>RESEARCH ON MEMORY MANAGEMENT</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="FILE SYSTEMS">
+      <lb:tema>FILE SYSTEMS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>FILES</lb:subtema>
+             <lb:subtema>DIRECTORIES</lb:subtema>
+             <lb:subtema>FILE SYSTEM IMPLEMENTATION</lb:subtema>
+             <lb:subtema>FILE SYSTEM MANAGEMENT AND OPTIMIZATION</lb:subtema>
+             <lb:subtema>EXAMPLE FILE SYSTEMS</lb:subtema>
+            <lb:subtema>RESEARCH ON FILE SYSTEMS</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="INPUT/OUTPUT">
+      <lb:tema>INPUT/OUTPUT</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>PRINCIPLES OF I/O HARDWARE </lb:subtema>
+             <lb:subtema>PRINCIPLES OF I/O SOFTWARE</lb:subtema>
+             <lb:subtema>I/O SOFTWARE LAYERS</lb:subtema>
+             <lb:subtema>DISKS</lb:subtema>
+             <lb:subtema>CLOCKS</lb:subtema>
+            <lb:subtema>USER INTERFACES: KEYBOARD, MOUSE, MONITOR</lb:subtema>
+            <lb:subtema>THIN CLIENTS</lb:subtema>
+            <lb:subtema>POWER MANAGEMENT</lb:subtema>
+            <lb:subtema>RESEARCH ON INPUT/OUTPUT</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="DEADLOCKS">
+      <lb:tema>DEADLOCKS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>RESOURCES</lb:subtema>
+             <lb:subtema>INTRODUCTION TO DEADLOCKS</lb:subtema>
+             <lb:subtema>THE OSTRICH ALGORITHM</lb:subtema>
+             <lb:subtema>DEADLOCK DETECTION AND RECOVERY</lb:subtema>
+             <lb:subtema>DEADLOCK AVOIDANCE</lb:subtema>
+            <lb:subtema>DEADLOCK PREVENTION</lb:subtema>
+            <lb:subtema>OTHER ISSUES</lb:subtema>
+            <lb:subtema>RESEARCH ON DEADLOCKS</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="MULTIMEDIA OPERATING SYSTEMS">
+      <lb:tema>MULTIMEDIA OPERATING SYSTEMS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>INTRODUCTION TO MULTIMEDIA</lb:subtema>
+             <lb:subtema>MULTIMEDIA FILES</lb:subtema>
+             <lb:subtema>VIDEO COMPRESSION</lb:subtema>
+             <lb:subtema>AUDIO COMPRESSION</lb:subtema>
+             <lb:subtema>MULTIMEDIA PROCESS SCHEDULING</lb:subtema>
+            <lb:subtema>MULTIMEDIA FILE SYSTEM PARADIGMS</lb:subtema>
+            <lb:subtema>FILE PLACEMENT</lb:subtema>
+            <lb:subtema>CACHING</lb:subtema>
+            <lb:subtema>DISK SCHEDULING FOR MULTIMEDIA</lb:subtema>
+            <lb:subtema>RESEARCH ON MULTIMEDIA</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="MULTIPLE PROCESSOR SYSTEMS">
+      <lb:tema>MULTIPLE PROCESSOR SYSTEMS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>MULTIPROCESSORS</lb:subtema>
+             <lb:subtema>MULTICOMPUTERS</lb:subtema>
+             <lb:subtema>VIRTUALIZATION</lb:subtema>
+             <lb:subtema>DISTRIBUTED SYSTEMS</lb:subtema>
+             <lb:subtema>RESEARCH ON MULTIPLE PROCESSOR SYSTEMS</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="SECURITY">
+      <lb:tema>SECURITY</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>THE SECURITY ENVIRONMENT</lb:subtema>
+             <lb:subtema>BASICS OF CRYPTOGRAPHY</lb:subtema>
+             <lb:subtema>PROTECTION MECHANISMS</lb:subtema>
+             <lb:subtema>AUTHENTICATION</lb:subtema>
+             <lb:subtema>INSIDER ATTACKS</lb:subtema>
+             <lb:subtema>EXPLOITING CODE BUGS</lb:subtema>
+             <lb:subtema>MALWARE</lb:subtema>
+             <lb:subtema>DEFENSES</lb:subtema>
+             <lb:subtema>RESEARCH ON SECURITY</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="CASE STUDY 1: LINUX">
+      <lb:tema>CASE STUDY 1: LINUX</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>HISTORY OF UNIX AND LINUX</lb:subtema>
+             <lb:subtema>OVERVIEW OF LINUX</lb:subtema>
+             <lb:subtema>PROCESSES IN LINUX</lb:subtema>
+             <lb:subtema>MEMORY MANAGEMENT IN LINUX</lb:subtema>
+             <lb:subtema>INPUT/OUTPUT IN LINUX</lb:subtema>
+             <lb:subtema>THE LINUX FILE SYSTEM</lb:subtema>
+             <lb:subtema>SECURITY IN LINUX</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="CASE STUDY 2: WINDOWS VISTA">
+      <lb:tema>CASE STUDY 2: WINDOWS VISTA</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>HISTORY OF WINDOWS VISTA</lb:subtema>
+             <lb:subtema>PROGRAMMING WINDOWS VISTA</lb:subtema>
+             <lb:subtema>SYSTEM STRUCTURE</lb:subtema>
+             <lb:subtema>PROCESSES AND THREADS IN WINDOWS VISTA</lb:subtema>
+             <lb:subtema>MEMORY MANAGEMENT</lb:subtema>
+             <lb:subtema>CACHING IN WINDOWS VISTA</lb:subtema>
+             <lb:subtema>INPUT/OUTPUT IN WINDOWS VISTA</lb:subtema>
+             <lb:subtema>THE WINDOWS NT FILE SYSTEM</lb:subtema>
+             <lb:subtema>SECURITY IN WINDOWS VISTA</lb:subtema>
+            <lb:subtema>SUMMARY</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

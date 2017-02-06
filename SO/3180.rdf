@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="INTRODUCCIÓN">
+  <lb:tema>INTRODUCCIÓN</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>¿QUÉ ES UN SISTEMA OPERATIVO?</lb:subtema>
+      <lb:subtema>HISTORIA DE LOS SISTEMAS OPERATIVOS</lb:subtema>
+      <lb:subtema>CONCEPTOS DE SISTEMAS OPERATIVOS</lb:subtema>
+      <lb:subtema>LLAMADAS AL SISTEMA</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="PROCESOS">
+  <lb:tema>PROCESOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>INTRODUCCION A LOS PROCESOS</lb:subtema>
+      <lb:subtema>COMUNICACION ENTRE PROCESOS</lb:subtema>
+      <lb:subtema>PROBLEMAS CLASICOS DE IPC</lb:subtema>
+      <lb:subtema>PLANIFICACION DE PROCESOS</lb:subtema>
+      <lb:subtema>PERSPECTIVA GENERAL DE PROCESOS EN MINIX </lb:subtema>
+      <lb:subtema>IMPLEMENTACION DE PROCESOS EN MINIX</lb:subtema>
+      <lb:subtema>RESUMEN </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="ENTRADA/SALIDA">
+  <lb:tema>ENTRADA/SALIDA</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>PRINCIPIOS DEL HARDWARE DE E/S PRINCIPIOS DEL SOFTWARE DE E/S</lb:subtema>
+      <lb:subtema>PRINCIPIOS DEL HARDWARE DE E/S PRINCIPIOS DEL SOFTWARE DE E/S</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

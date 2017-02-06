@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="INTROUCCION">
+   <lb:tema>INTROUCCION</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>EL PROYECTO DE MISCROSEP</lb:subtema>
+      <lb:subtema>EL SISTEMA OPERATIVO CP/M</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="PAGINA CERO DE MEMORIA">
+  <lb:tema>PAGINA CERO DE MEMORIA</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Byte de Entrada/salida</lb:subtema>
+      <lb:subtema>Control de Archivos</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="CONTROL DE DISCO">
+  <lb:tema>CONTROL DE DISCO</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Porción Independiente:BDOS</lb:subtema>
+      <lb:subtema>Porción Dependiente:BIOS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="TABLAS DE PARÁMETROS">
+  <lb:tema>TABLAS DE PARÁMETROS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ENCABEZADO DE DISCO</lb:subtema>
+      <lb:subtema>PARÁMETROS DEL DISCO</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="RUTINAS DE ACCESO">
+  <lb:tema>RUTINAS DE ACCESO</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Inicialización del Sistema</lb:subtema>
+      <lb:subtema>Manejo de Consola</lb:subtema>
+      <lb:subtema>Manejo del Disco</lb:subtema>
+      <lb:subtema>Manejo del la Impresora</lb:subtema>
+      <lb:subtema>Manejo de otras Unidades</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="UTILERIAS">
+  <lb:tema>UTILERIAS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>FORMATEADOR DE DISCO</lb:subtema>
+      <lb:subtema>COPIADOR DE ARCHIVOS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

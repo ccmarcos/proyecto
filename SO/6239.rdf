@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Panorama general">
+  <lb:tema>Panorama general</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Introduccion</lb:subtema>
+      <lb:subtema>Software del sistema operativo</lb:subtema>
+      <lb:subtema>Hardware de la maquina </lb:subtema>
+      <lb:subtema>Tipos de sistemas operativos</lb:subtema>
+      <lb:subtema>Historia breve del desarrollo de los sistemas operativos</lb:subtema>
+      <lb:subtema>Decadas de los 40s 10 Decadas de los 50s</lb:subtema>
+      <lb:subtema>Decadas de los 60s 12 Decadas de los 70s</lb:subtema>
+      <lb:subtema>Decadas de los 80s 14 Decadas de los 90s</lb:subtema>
+      <lb:subtema>Conclusion del capitulo</lb:subtema>
+      <lb:subtema>TERMINOS CLAVE</lb:subtema>
+      <lb:subtema>EJERCICIOS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Administration de la memoria, primeros sistemas">
+  <lb:tema>Administration de la memoria, primeros sistemas</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Esquema contiguo de usuario tipico</lb:subtema>
+      <lb:subtema>Particiones fijas</lb:subtema>
+      <lb:subtema>Particiones dinamicas</lb:subtema>
+      <lb:subtema>Asignacion de mejor adecuaciOn en comparacion con primer ajuste</lb:subtema>
+      <lb:subtema>Desasignacion </lb:subtema>
+      <lb:subtema>Caso 1, union de dos bloques libres</lb:subtema>
+      <lb:subtema>Caso 2, union de tres bloques libres</lb:subtema>
+      <lb:subtema>Caso 3, desasignacion de un bloque aislado</lb:subtema>
+      <lb:subtema>Particiones dinamicas relocalizables</lb:subtema>
+      <lb:subtema>Conclusion</lb:subtema>
+      <lb:subtema>TERMINOS CLAVE</lb:subtema>
+      <lb:subtema>EJERCICIOS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Administración de los procesos">
+  <lb:tema>Administración de los procesos</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Bloqueo mutuo</lb:subtema>
+      <lb:subtema>Siete casos de bloqueo mutuo</lb:subtema>
+      <lb:subtema>Condiciones para el bloqueo mutuo</lb:subtema>
+      <lb:subtema>Modelado de bloqueos mutuo</lb:subtema>
+      <lb:subtema>Estrategias para el manejo de bloqueos</lb:subtema>
+      <lb:subtema>Inanición</lb:subtema>
+      <lb:subtema>Conclusión</lb:subtema>
+      <lb:subtema>TÉRMINOS CLAVE </lb:subtema>
+      <lb:subtema>EJERCICIOS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Procesos concurrentes">
+  <lb:tema>Procesos concurrentes</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>¿Qué es procesamiento paralelo?</lb:subtema>
+      <lb:subtema>Configuraciones típicas de multiprocesamiento</lb:subtema>
+      <lb:subtema>Software de sincronización de procesos</lb:subtema>
+      <lb:subtema>Cooperación de procesos</lb:subtema>
+      <lb:subtema>Programación concurrente</lb:subtema>
+      <lb:subtema>Conclusión</lb:subtema>
+      <lb:subtema>TÉRMINOS CLAVE</lb:subtema>
+      <lb:subtema>EJERCICIOS</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Sistema operativo MS/DOS">
+  <lb:tema>Sistema operativo MS/DOS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Metas de diseño</lb:subtema>
+      <lb:subtema>Administración de la memoria </lb:subtema>
+      <lb:subtema>Administración del procesador</lb:subtema>
+      <lb:subtema>Administración de los dispositivos</lb:subtema>
+      <lb:subtema>Interfaz de usuario </lb:subtema>
+      <lb:subtema>Conclusión</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Windows 2000">
+  <lb:tema>Windows 2000</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Historia</lb:subtema>
+      <lb:subtema>Metas de diseño</lb:subtema>
+      <lb:subtema>Administración de la memoria</lb:subtema>
+      <lb:subtema>Administrador del procesadorv</lb:subtema>
+      <lb:subtema>Administración de los dispositivos v</lb:subtema>
+      <lb:subtema>Administración de los archivosv</lb:subtema>
+      <lb:subtema>Conclusión</lb:subtema>
+	</rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

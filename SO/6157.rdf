@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+
+    <rdf:Description
+      rdf:about="What Is a Computer?">
+      <lb:tema>What Is a Computer?</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Introduction to Computer Systems</lb:subtema>
+             <lb:subtema>Computer Systems: Hardware</lb:subtema>
+             <lb:subtema>Caring for a Floppy Disk</lb:subtema>
+             <lb:subtema>Types of Personal Computers</lb:subtema>
+             <lb:subtema>Computer Systems: Software</lb:subtema>
+            <lb:subtema>Drill</lb:subtema>
+            <lb:subtema>Summary and Review</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Get Started with DOS">
+      <lb:tema>Get Started with DOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Getting Started on a PC</lb:subtema>
+             <lb:subtema>Prompt and Command Line</lb:subtema>
+             <lb:subtema>The DOS Prompt</lb:subtema>
+             <lb:subtema>Ending a DOS Session</lb:subtema>
+            <lb:subtema>Drill</lb:subtema>
+            <lb:subtema>Summary and Review</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+      <rdf:Description
+      rdf:about="Get Your Disks Ready to Use">
+      <lb:tema>Get Your Disks Ready to Use</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Internal vs. External Commands</lb:subtema>
+             <lb:subtema>What Kind of Disk to Use</lb:subtema>
+             <lb:subtema>What Does Formatting Do?</lb:subtema>
+             <lb:subtema>The VOL and LABEL Commands</lb:subtema>
+            <lb:subtema>The UNFORMAT Command</lb:subtema>
+             <lb:subtema>Checking a disk</lb:subtema>
+             <lb:subtema>How to Copy a Disk</lb:subtema>
+             <lb:subtema>How to compare Two Disk</lb:subtema>
+            <lb:subtema>Drill</lb:subtema>
+            <lb:subtema>Summary and Review</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+      <rdf:Description
+      rdf:about="How to Create, Find, and Print Files">
+      <lb:tema>How to Create, Find, and Print Files</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>What Is a File?</lb:subtema>
+             <lb:subtema>Understanding the Command Line</lb:subtema>
+             <lb:subtema>Displaying Directory Entries</lb:subtema>
+             <lb:subtema>Displaying the Contents of a File</lb:subtema>
+            <lb:subtema>Printing a Screen Display and Disk File</lb:subtema>
+            <lb:subtema>Drill</lb:subtema>
+            <lb:subtema>Summary and Review</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="How to Manage Your Files">
+      <lb:tema>How to Manage Your Files</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Copying Files</lb:subtema>
+             <lb:subtema>Comparing Copy and Diskcopy</lb:subtema>
+             <lb:subtema>Copying Copy-Protected Software</lb:subtema>
+             <lb:subtema>Changing the Name of a File</lb:subtema>
+            <lb:subtema>Removing a File From the Disk</lb:subtema>
+            <lb:subtema>Using Wildcards in File Names</lb:subtema>
+            <lb:subtema>Drill</lb:subtema>
+            <lb:subtema>Summary and Review</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+       <rdf:Description
+      rdf:about="Subdirectories, Paths, and Prompts">
+      <lb:tema>Subdirectories, Paths, and Prompts</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Organizing a Disk</lb:subtema>
+             <lb:subtema>File Commands and Subdirectory Commands</lb:subtema>
+             <lb:subtema>Making and Removing Subdirectories</lb:subtema>
+             <lb:subtema>Maneuvering Related Directories</lb:subtema>
+            <lb:subtema>Maneuvering Multilevel Directories</lb:subtema>
+            <lb:subtema>Maneuvering UnRelated Directories</lb:subtema>
+            <lb:subtema>Using the XCOPY Command to Duplicate Subdirectories</lb:subtema>
+            <lb:subtema>Maneuvering the prompt</lb:subtema>
+            <lb:subtema>Using TREE to Display Directories</lb:subtema>
+            <lb:subtema>Using Path to Access Executable Files</lb:subtema>
+            <lb:subtema>Drill</lb:subtema>
+            <lb:subtema>Summary and Review</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+ <rdf:Description
+      rdf:about="More DOS: Advanced Topics">
+      <lb:tema>More DOS: Advanced Topics</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Setting and Removing File Attributes</lb:subtema>
+             <lb:subtema>Using the XCOPY Command</lb:subtema>
+             <lb:subtema>Backing Up Files with BACKUP</lb:subtema>
+             <lb:subtema>Restoring Backup Files</lb:subtema>
+            <lb:subtema>Redirecting Files</lb:subtema>
+            <lb:subtema>Pipes and Filters</lb:subtema>
+            <lb:subtema>EDLIN</lb:subtema>
+            <lb:subtema>EDIT in DOS 5.0 Only</lb:subtema>
+            <lb:subtema>DEBUG</lb:subtema>
+            <lb:subtema>Creating and Using Batch Files</lb:subtema>
+            <lb:subtema>CONFIG.SYS File</lb:subtema>
+            <lb:subtema>DOS Editing Keys</lb:subtema>
+            <lb:subtema>DOSKEY</lb:subtema>
+            <lb:subtema>Drill</lb:subtema>
+            <lb:subtema>Summary and Review</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

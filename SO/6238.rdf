@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+    <rdf:Description
+      rdf:about="Introducción a la organización de la computadora">
+      <lb:tema>Introducción a la organización de la computadora</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Niveles de la complejidad</lb:subtema>
+             <lb:subtema>Organización de la computadoras</lb:subtema>
+             <lb:subtema>Organizacion de la CPU</lb:subtema>
+             <lb:subtema>Organización de la memoria</lb:subtema>
+             <lb:subtema>Organización de la E/S</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Generalidades de los sistemas operativos">
+      <lb:tema>Generalidades de los sistemas operativos</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Introducción</lb:subtema>
+             <lb:subtema>Logical específico</lb:subtema>
+             <lb:subtema>Logical general</lb:subtema>
+             <lb:subtema>Logical funcional</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="El núcleo de los sistemas opeartivos">
+      <lb:tema>El núcleo de los sistemas opeartivos</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Introducción</lb:subtema>
+             <lb:subtema>El R1</lb:subtema>
+             <lb:subtema>El gestionador de procesos a nivel internet</lb:subtema>
+             <lb:subtema>Apertura y cierre</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Gestión de memoria">
+      <lb:tema>Gestión de memoria</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Introducción</lb:subtema>
+             <lb:subtema>Ubicación simple en monoprogramación</lb:subtema>
+             <lb:subtema>Ubicación partida</lb:subtema>
+             <lb:subtema>Ubicación particionada con reubicación dinámica</lb:subtema>
+             <lb:subtema>Gestión por segmentación</lb:subtema>
+             <lb:subtema>Gestión de memoria paginada simple</lb:subtema>
+             <lb:subtema>Gestión de emoria segmentada y paginada</lb:subtema>
+             <lb:subtema>Memoria virtual</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Gestión de la entrada/salida(E/S)">
+      <lb:tema>Gestión de la entrada/salida(E/S)</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Introducción</lb:subtema>
+             <lb:subtema>Técnicas de E/S</lb:subtema>
+             <lb:subtema>Canales de E/S</lb:subtema>
+             <lb:subtema>El spool</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Gestión de archivos">
+      <lb:tema>Gestión de archivos</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Introducción</lb:subtema>
+             <lb:subtema>Distribución de la memoria en discos</lb:subtema>
+             <lb:subtema>Métodos de asignación de memoria</lb:subtema>
+             <lb:subtema>Sistemas de directorios</lb:subtema>
+             <lb:subtema>Protección de archivos</lb:subtema>
+            <lb:subtema>Un sistema de archivos secillo</lb:subtema>
+            <lb:subtema>Sistema de archivos físicos</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Compiladores">
+      <lb:tema>Compiladores</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Introducción</lb:subtema>
+             <lb:subtema>Notación polaca. Notación infinita, sufija y prefija.</lb:subtema>
+             <lb:subtema>La evaluación sintáctica</lb:subtema>
+             <lb:subtema>El análisis semántica y la codificación.</lb:subtema>
+             <lb:subtema>Programas objetos</lb:subtema>
+            <lb:subtema>Métodos de reconocimiento</lb:subtema>
+            <lb:subtema>El compilador de compiladores</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Ensambladores">
+      <lb:tema>Ensambladores</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Introducción</lb:subtema>
+             <lb:subtema>Instrucciones y pseudo-instrucciones</lb:subtema>
+             <lb:subtema>El programa analizador</lb:subtema>
+             <lb:subtema>Tablas de símbolos</lb:subtema>
+             <lb:subtema>Ensambladores de dos pasos</lb:subtema>
+            <lb:subtema>Introductores y cargadores</lb:subtema>
+            <lb:subtema>Ensambladores de un paso</lb:subtema>
+            <lb:subtema>MAcroensambladores</lb:subtema>
+            <lb:subtema>Metaensambladores</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

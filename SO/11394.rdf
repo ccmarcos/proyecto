@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Meet Ubuntu Linux">
+  <lb:tema>Meet Ubuntu Linux</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Ten Reasons to Try Ubuntu Linux</lb:subtema>
+      <lb:subtema>What Is Ubuntu Linux Anyway?</lb:subtema>
+      <lb:subtema>The Ubuntu Linux Experience </lb:subtema>
+      <lb:subtema>Praise for Ubuntu Linux</lb:subtema>
+      <lb:subtema>Summary</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="GNU slash Linux">
+  <lb:tema>GNU slash Linux</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>UNIX</lb:subtema>
+      <lb:subtema>The Rise of the IBM PC... and of Microsoft</lb:subtema>
+      <lb:subtema>RMS on Free Software</lb:subtema>
+      <lb:subtema>Copyleft </lb:subtema>
+      <lb:subtema>The Quest for a UNIX-like Operating System</lb:subtema>
+      <lb:subtema>Linus Torvalds and His Little Project</lb:subtema>
+      <lb:subtema>GNU "slash" Linux</lb:subtema>
+      <lb:subtema>The Linux Diaspora</lb:subtema>
+      <lb:subtema>Open Source</lb:subtema>
+      <lb:subtema>The South African Factor</lb:subtema>
+      <lb:subtema>An Operating System for the Future</lb:subtema>
+      <lb:subtema>Summary</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Pre-installation Steps">
+  <lb:tema>Pre-installation Steps</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Understanding Partitioning</lb:subtema>
+      <lb:subtema>Freeing Up Space </lb:subtema>
+      <lb:subtema>Backing Up Your </lb:subtema>
+      <lb:subtema>Summary </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Installing Ubuntu">
+  <lb:tema>Installing Ubuntu</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>An Overview of the Installation Process</lb:subtema>
+      <lb:subtema>A Stage-by-Stage Installation Guide </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Solving Installation Problems">
+  <lb:tema>Solving Installation Problems</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Preinstallation Problems  The Disc Doesn't Boot</lb:subtema>
+      <lb:subtema>Installation Problems </lb:subtema>
+      <lb:subtema>Postinstallation Problems</lb:subtema>
+      <lb:subtema>Graphical Problems</lb:subtema>
+      <lb:subtema>Summary </lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Booting Ubuntu for the First Time">
+  <lb:tema>Booting Ubuntu for the First Time</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Starting Up</lb:subtema>
+      <lb:subtema>Logging In </lb:subtema>
+      <lb:subtema>Exploring the Desktop</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+    <rdf:Description
+      rdf:about="Overview">
+      <lb:tema>Overview</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Intoduction</lb:subtema>
+             <lb:subtema>Functions of an Operating System</lb:subtema>
+             <lb:subtema>Design Approaches</lb:subtema>
+             <lb:subtema>Why Advanced Operating Systems</lb:subtema>
+            <lb:subtema>Types of Advanced Operating Systems</lb:subtema>
+            <lb:subtema>An Overview of the Book</lb:subtema>
+            <lb:subtema>Summary</lb:subtema>
+            <lb:subtema>Further Reading</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Synchronization Mechanisms">
+      <lb:tema>Synchronization Mechanisms</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Intoduction</lb:subtema>
+             <lb:subtema>Concept of a Process</lb:subtema>
+             <lb:subtema>Concurrent Processes</lb:subtema>
+             <lb:subtema>The Critical Section Problem</lb:subtema>
+            <lb:subtema>Other Syncrhronization Problems</lb:subtema>
+            <lb:subtema>Languaje Mechanism for Syncronization</lb:subtema>
+            <lb:subtema>Axiomatic Verification of Parallel Programs</lb:subtema>
+            <lb:subtema>Summary</lb:subtema>
+            <lb:subtema>Further Reading</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Process Deadlocks">
+      <lb:tema>Process Deadlocks</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Intoduction</lb:subtema>
+             <lb:subtema>Preliminaries</lb:subtema>
+             <lb:subtema>Models od Deadlocks</lb:subtema>
+             <lb:subtema>Models of Resources</lb:subtema>
+            <lb:subtema>A Graph-Theoretic Model of a System State</lb:subtema>
+            <lb:subtema>Necessary and Sufficient Conditions for a Deadlock</lb:subtema>
+            <lb:subtema>Systems with Single-Unit Requests</lb:subtema>
+            <lb:subtema>Systems with Consumable Resources</lb:subtema>
+            <lb:subtema>Systems with only Reusable Resources</lb:subtema>
+            <lb:subtema>Summary</lb:subtema>
+            <lb:subtema>Further Reading</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Architectures of Distributed Systems">
+      <lb:tema>Architectures of Distributed Systems</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Intoduction</lb:subtema>
+             <lb:subtema>Motivations</lb:subtema>
+             <lb:subtema>System Architecture Types</lb:subtema>
+             <lb:subtema>Distributed Operating Systems</lb:subtema>
+            <lb:subtema>Issues in Distributed Operating Systems</lb:subtema>
+            <lb:subtema>Communication Network</lb:subtema>
+            <lb:subtema>Summary</lb:subtema>
+            <lb:subtema>Further Reading</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Theorical Foundations">
+      <lb:tema>Theorical Foundations</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Intoduction</lb:subtema>
+             <lb:subtema>Inherent Limitations of a Distributed System</lb:subtema>
+             <lb:subtema>Lamport's Logical Clocks</lb:subtema>
+             <lb:subtema>Vector Clocks</lb:subtema>
+            <lb:subtema>Causal Ordering of Messages</lb:subtema>
+            <lb:subtema>Global State</lb:subtema>
+            <lb:subtema>Cuts of a Distributed Computation</lb:subtema>
+            <lb:subtema>Termination Detection</lb:subtema>
+            <lb:subtema>Summary</lb:subtema>
+            <lb:subtema>Further Reading</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Distributed Mutual Exclusion">
+      <lb:tema>Distributed Mutual Exclusion</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Intoduction</lb:subtema>
+             <lb:subtema>The Classification of Mutual Exclusion Algorithms</lb:subtema>
+             <lb:subtema>Prelimiraries</lb:subtema>
+             <lb:subtema>A Simple Solution to Distributed Mutual Exclusion</lb:subtema>
+            <lb:subtema>Non-Token Based Algorithms</lb:subtema>
+            <lb:subtema>Lamport's Algorithm</lb:subtema>
+            <lb:subtema>The Ricart-Agrawala Algorithm</lb:subtema>
+            <lb:subtema>Mackawa's Algorithm</lb:subtema>
+            <lb:subtema>A Generalized Non-Token-Based Algorithm</lb:subtema>
+            <lb:subtema>Token-Based Algorithms</lb:subtema>
+            <lb:subtema>Suzuki-Kasami's Broadcast Algorithm</lb:subtema>
+            <lb:subtema>Raymond's Tree-Based Algorithm</lb:subtema>
+            <lb:subtema>A Comparative Performance Analysis</lb:subtema>
+            <lb:subtema>Summary</lb:subtema>
+            <lb:subtema>Further Reading</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Distributed Deadlock Detection">
+      <lb:tema>Distributed Deadlock Detection</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Intoduction</lb:subtema>
+             <lb:subtema>Preliminaries</lb:subtema>
+             <lb:subtema>Deadlock Handling Strategies in Distributed Systems</lb:subtema>
+            <lb:subtema>Issues in Deadlock Detection and Resolution</lb:subtema>
+            <lb:subtema>Control Organizations for Distributed Deadlock Detection</lb:subtema>
+            <lb:subtema>Centralized Deadlock Detection Algorithms</lb:subtema>
+            <lb:subtema>Distributed Deadlock Detection Algorithms</lb:subtema>
+            <lb:subtema>Hierarchical Deadlock Detection Algorithms</lb:subtema>
+            <lb:subtema>Perspective</lb:subtema>
+            <lb:subtema>Summary</lb:subtema>
+            <lb:subtema>Further Reading</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+      <rdf:Description
+      rdf:about="Agreement Protocols">
+      <lb:tema>Agreement Protocols</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Intoduction</lb:subtema>
+             <lb:subtema>The System Model</lb:subtema>
+             <lb:subtema>A Classification af Agreement Problems</lb:subtema>
+            <lb:subtema>Solutions to the Byzantine Agreement Problem</lb:subtema>
+            <lb:subtema>Application of Agreement Algorithms</lb:subtema>
+            <lb:subtema>Summary</lb:subtema>
+            <lb:subtema>Further Reading</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+  <rdf:Description
+      rdf:about="Distributed File Systems">
+      <lb:tema>Distributed File Systems</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Intoduction</lb:subtema>
+             <lb:subtema>Architecture</lb:subtema>
+             <lb:subtema>Mechanisms for Building Distributed File Systems</lb:subtema>
+            <lb:subtema>Design Issues</lb:subtema>
+            <lb:subtema>Case Studies</lb:subtema>
+            <lb:subtema>Log-Structure File Systems</lb:subtema>
+            <lb:subtema>Summary</lb:subtema>
+            <lb:subtema>Further Reading</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Distributed Shared Memory">
+      <lb:tema>Distributed Shared Memory</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Intoduction</lb:subtema>
+             <lb:subtema>Architecture and Motivation</lb:subtema>
+             <lb:subtema>Algorithms for Implementing DSM</lb:subtema>
+            <lb:subtema>Memory Coherence</lb:subtema>
+            <lb:subtema>Coherence Protocols</lb:subtema>
+            <lb:subtema>Design Issues</lb:subtema>
+            <lb:subtema>Case Studies</lb:subtema>
+            <lb:subtema>Summary</lb:subtema>
+            <lb:subtema>Further Reading</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Distributed Scheduling">
+      <lb:tema>Distributed Scheduling</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Intoduction</lb:subtema>
+             <lb:subtema>Motivation</lb:subtema>
+             <lb:subtema>Issues in Load Distributing</lb:subtema>
+            <lb:subtema>Components of a Load Distributing Algorithms</lb:subtema>
+            <lb:subtema>Stability</lb:subtema>
+            <lb:subtema>Load Distributing Algorithms</lb:subtema>
+            <lb:subtema>Performance Comparison</lb:subtema>
+            <lb:subtema>Selecting a Suitable Load Sharing Algorithm</lb:subtema>
+            <lb:subtema>Requerements for Load Distributing</lb:subtema>
+            <lb:subtema>Load Sharing Policies: Case studies</lb:subtema>
+            <lb:subtema>Task Migration</lb:subtema>
+            <lb:subtema>Issues in Task Migration</lb:subtema>
+            <lb:subtema>Summary</lb:subtema>
+            <lb:subtema>Further Reading</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

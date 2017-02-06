@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+
+    <rdf:Description
+      rdf:about="INTRODUCTION">
+      <lb:tema>INTRODUCTION</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Opening Remarks</lb:subtema>
+             <lb:subtema>What is an Operating System?</lb:subtema>
+             <lb:subtema>Early History: The 1940s and The 1950s</lb:subtema>
+             <lb:subtema>The 1960s</lb:subtema>
+             <lb:subtema>The Emergence of a New Field: Software Enginearing</lb:subtema>
+            <lb:subtema>The 1970s</lb:subtema>
+            <lb:subtema>The 1980s</lb:subtema>
+            <lb:subtema>The 1990s and Beyond</lb:subtema>
+            <lb:subtema>Distributed Computing</lb:subtema>
+            <lb:subtema>The Key Architecrural Trend Parallel Computing</lb:subtema>
+            <lb:subtema>Input Output Trends</lb:subtema>
+            <lb:subtema>Open Systems</lb:subtema>
+            <lb:subtema>UNIX</lb:subtema>
+            <lb:subtema>Ethical Issues</lb:subtema>
+            <lb:subtema>Applications Bases</lb:subtema>
+            <lb:subtema>The Key Operating Systems for the 1990s</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="HARDWARE, SOFTWARE, FIRMWARE">
+      <lb:tema>HARDWARE, SOFTWARE, FIRMWARE</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Introduction</lb:subtema>
+             <lb:subtema>Hardware</lb:subtema>
+             <lb:subtema>Software</lb:subtema>
+             <lb:subtema>Firmware</lb:subtema>
+             <lb:subtema>Summary</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="PROCESS CONCEPTS">
+      <lb:tema>PROCESS CONCEPTS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Introduction</lb:subtema>
+             <lb:subtema>Definitions of "Process"</lb:subtema>
+             <lb:subtema>Process States</lb:subtema>
+             <lb:subtema>Process State Transitions</lb:subtema>
+             <lb:subtema>The Process Control Block</lb:subtema>
+            <lb:subtema>Operations ont Processes</lb:subtema>
+            <lb:subtema>Suspend and Resume</lb:subtema>
+            <lb:subtema>Interrupt Processing</lb:subtema>
+            <lb:subtema>The Nucleus of the Operating System</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="ASYNCHRONOUS CONCURRENT PROCESSES">
+      <lb:tema>ASYNCHRONOUS CONCURRENT PROCESSES</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Introduction</lb:subtema>
+             <lb:subtema>Parallel Processing</lb:subtema>
+             <lb:subtema>A Control Structure for Indicating Parallelism:Parbegin/PArend</lb:subtema>
+             <lb:subtema>Mutual Exclusion</lb:subtema>
+             <lb:subtema>Critical Sections</lb:subtema>
+            <lb:subtema>Mutual Exclusion Primitives</lb:subtema>
+            <lb:subtema>Implementing Mutual Exclusion Primitives</lb:subtema>
+            <lb:subtema>Dekker's Algorithm</lb:subtema>
+            <lb:subtema>Peterson's Algorithm</lb:subtema>
+            <lb:subtema>N-Process Mutual Exclusion</lb:subtema>
+            <lb:subtema>A Hardware Solution Mutual Exclusion:The Testandset Instruction</lb:subtema>
+            <lb:subtema>Semaphores</lb:subtema>
+            <lb:subtema>Process Synchronization with Semaphores</lb:subtema>
+            <lb:subtema>The Producer-consumer Relationship</lb:subtema>
+            <lb:subtema>Counting Semaphores</lb:subtema>
+            <lb:subtema>Implementing Semaphores, P and V</lb:subtema>
+            <lb:subtema>Eventcounts and Sequencers</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="CONCURRENT PROGRAMAMING">
+      <lb:tema>CONCURRENT PROGRAMAMING</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Introduction</lb:subtema>
+             <lb:subtema>Critical Regions and Conditional Critical Regions</lb:subtema>
+             <lb:subtema>Monitors</lb:subtema>
+             <lb:subtema>Path Expressions</lb:subtema>
+             <lb:subtema>Message Passing</lb:subtema>
+            <lb:subtema>Ada: A Key Concurrent Programming Languaje For the 1990s</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="DEADLOCK AND INDEFINITE POSTPONEMENT">
+      <lb:tema>DEADLOCK AND INDEFINITE POSTPONEMENT</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Introduction</lb:subtema>
+             <lb:subtema>Examples of Deadlock</lb:subtema>
+             <lb:subtema>A Related Problem: Indefinite Postponement</lb:subtema>
+             <lb:subtema>Resource Concepts</lb:subtema>
+             <lb:subtema>Four Necessary Conditions for Deadlock</lb:subtema>
+            <lb:subtema>Major Areas of Deadlock Research</lb:subtema>
+            <lb:subtema>Deadlock Prevention</lb:subtema>
+            <lb:subtema>Deadlock Avoidance and the Bariker's Algorithm</lb:subtema>
+            <lb:subtema>Deadlock Detection</lb:subtema>
+            <lb:subtema>Deadlock Recovery</lb:subtema>
+            <lb:subtema>Deadlock Considerations in Future Systems</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="REAL STORAGE">
+      <lb:tema>REAL STORAGE</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Introduction</lb:subtema>
+             <lb:subtema>Storage Organization</lb:subtema>
+             <lb:subtema>Storage Management</lb:subtema>
+             <lb:subtema>Storage Hierarchy</lb:subtema>
+             <lb:subtema>Storage Management Strategies</lb:subtema>
+            <lb:subtema>Configuos vs. Noncontiguos Storage Allocation</lb:subtema>
+            <lb:subtema>Simple User Contiguos Storage Allocation</lb:subtema>
+            <lb:subtema>Fixed Partition Multiprogramming</lb:subtema>
+            <lb:subtema>Variable Partition Multiprogramming</lb:subtema>
+            <lb:subtema>Multiprogramming with Storage Swapping</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="VIRTUAL STORAGE ORGANIZATION">
+      <lb:tema>VIRTUAL STORAGE ORGANIZATION</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Introduction</lb:subtema>
+             <lb:subtema>Exolution of Storage Organizations</lb:subtema>
+             <lb:subtema>Virtual Storage: Basic Concepts</lb:subtema>
+             <lb:subtema>Multilevel Storage Organization</lb:subtema>
+             <lb:subtema>Block Mapping</lb:subtema>
+            <lb:subtema>Paging: Basic Concepts</lb:subtema>
+            <lb:subtema>Segmentation</lb:subtema>
+            <lb:subtema>Paging/Segmentation Systems</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="VIRTUAL STORAGE MANAGEMENT">
+      <lb:tema>VIRTUAL STORAGE MANAGEMENT</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Introduction</lb:subtema>
+             <lb:subtema>Virtual Storage Management Strategies</lb:subtema>
+             <lb:subtema>Page Replacement Strategies</lb:subtema>
+             <lb:subtema>Locality</lb:subtema>
+             <lb:subtema>Working Sets</lb:subtema>
+            <lb:subtema>Page Fault Frequency Page Replacement</lb:subtema>
+            <lb:subtema>Demand paging</lb:subtema>
+            <lb:subtema>Antic</lb:subtema>
+            <lb:subtema>Page Release</lb:subtema>
+            <lb:subtema>Page Size</lb:subtema>
+            <lb:subtema>Program Behavior under Paging</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="JOB AND PROCESSOR SCHEDULING">
+      <lb:tema>JOB AND PROCESSOR SCHEDULING</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Introduction</lb:subtema>
+             <lb:subtema>Scheduling Levels</lb:subtema>
+             <lb:subtema>Scheduling Objectives</lb:subtema>
+             <lb:subtema>Preemptive vs. Nonpreemptive Scheduling</lb:subtema>
+             <lb:subtema>The Interval Times or Interrupting Clock</lb:subtema>
+            <lb:subtema>Priorities</lb:subtema>
+            <lb:subtema>Deadline Scheduling</lb:subtema>
+            <lb:subtema>Quantumw Size</lb:subtema>
+            <lb:subtema>Shortes First Secheduling</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

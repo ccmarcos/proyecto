@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+
+    <rdf:Description
+      rdf:about="INTRODUCCIÓN">
+      <lb:tema>INTRODUCCIÓN</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>¿QUÉ ES UN SISTEMA OPERATIVO?</lb:subtema>
+             <lb:subtema>HISTORIA DE LOS SISTEMAS OPERATIVOS</lb:subtema>
+             <lb:subtema>REVISIÓN DEL HARDWARE DE COMPUTADORA</lb:subtema>
+             <lb:subtema>LOS TIPOS DE SISTEMAS OPERATIVOS</lb:subtema>
+             <lb:subtema>CONCEPTOS DE LOS SISTEMAS OPERATIVOS</lb:subtema>
+             <lb:subtema>LLAMADAS AL SISTEMA</lb:subtema>
+            <lb:subtema>ESTRUCTURA DE UN SISTEMA OPERATIVO</lb:subtema>
+            <lb:subtema>EL MUNDO SEGÚN C</lb:subtema>
+            <lb:subtema>INVESTIGACIÓN ACERCA DE LOS SISTEMAS OPERATIVOS</lb:subtema>
+            <lb:subtema>DESCRIPCIÓN GENERAL SOBRE EL RESTO DE ESTE LIBRO</lb:subtema>
+            <lb:subtema>UNIDADES MÉTRICAS</lb:subtema>
+            <lb:subtema>RESUMEN</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="PROCESOS E HILOS">
+      <lb:tema>PROCESOS E HILOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>PROCESOS</lb:subtema>
+             <lb:subtema>HILOS</lb:subtema>
+             <lb:subtema>COMUNICACIÓN ENTRE PROCESOS</lb:subtema>
+             <lb:subtema>PLANIFICACIÓN</lb:subtema>
+             <lb:subtema>PROBLEMAS CLÁSICOS DE COMUNICACIÓN ENTRE PROCESOS (IPC)</lb:subtema>
+             <lb:subtema>INVESTIGACIÓN ACERCA DE LOS PROCESOS E HILOS</lb:subtema>
+            <lb:subtema>RESUMEN</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="ADMINISTRACIÓN DE MEMORIA">
+      <lb:tema>ADMINISTRACIÓN DE MEMORIA</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>SIN ABSTRACCIÓN DE MEMORIA</lb:subtema>
+             <lb:subtema>UNA ABSTRACCIÓN DE MEMORIA: ESPACIOS DE DIRECCIONES</lb:subtema>
+             <lb:subtema>MEMORIA VIRTUAL</lb:subtema>
+             <lb:subtema>ALGORITMOS DE REEMPLAZO DE PÁGINAS</lb:subtema>
+             <lb:subtema>CUESTIONES DE DISEÑO PARA LOS SISTEMAS DE PAGINACIÓN</lb:subtema>
+             <lb:subtema>CUESTIONES DE IMPLEMENTACIÓN</lb:subtema>
+            <lb:subtema>SEGMENTACIÓN</lb:subtema>
+            <lb:subtema>INVESTIGACIÓN ACERCA DE LA ADMINISTRACIÓN DE MEMORIA</lb:subtema>
+            <lb:subtema>RESUMEN</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="SISTEMAS DE ARCHIVOS">
+      <lb:tema>SISTEMAS DE ARCHIVOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>ARCHIVOS</lb:subtema>
+             <lb:subtema>DIRECTORIOS</lb:subtema>
+             <lb:subtema>IMPLEMENTACIÓN DE SISTEMAS DE ARCHIVOS</lb:subtema>
+             <lb:subtema>ADMINISTRACIÓN Y OPTIMIZACIÓN DE SISTEMAS DE ARCHIVOS</lb:subtema>
+             <lb:subtema>EJEMPLOS DE SISTEMAS DE ARCHIVOS</lb:subtema>
+             <lb:subtema>INVESTIGACIÓN ACERCA DE LOS SISTEMAS DE ARCHIVOS</lb:subtema>
+            <lb:subtema>RESUMEN</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="ENTRADA/SALIDA">
+      <lb:tema>ENTRADA/SALIDA</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>PRINCIPIOS DEL HARDWARE DE E/S</lb:subtema>
+             <lb:subtema>FUNDAMENTOS DEL SOFTWARE DE E/S</lb:subtema>
+             <lb:subtema>CAPAS DEL SOFTWARE DE E/S</lb:subtema>
+             <lb:subtema>DISCOS</lb:subtema>
+             <lb:subtema>RELOJES</lb:subtema>
+             <lb:subtema>INTERFACES DE USUARIO: TECLADO, RATÓN, MONITOR</lb:subtema>
+             <lb:subtema>CLIENTES DELGADOS</lb:subtema>
+             <lb:subtema>ADMINISTRACIÓN DE ENERGÍA</lb:subtema>
+             <lb:subtema>INVESTIGACIÓN ACERCA DE LA E/S</lb:subtema>
+            <lb:subtema>RESUMEN</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="INTERBLOQUEOS">
+      <lb:tema>INTERBLOQUEOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>RECURSOS</lb:subtema>
+             <lb:subtema>INTRODUCCIÓN A LOS INTERBLOQUEOS</lb:subtema>
+             <lb:subtema>EL ALGORITMO DE LA AVESTRUZ</lb:subtema>
+             <lb:subtema>DETECCIÓN Y RECUPERACIÓN DE UN INTERBLOQUEO</lb:subtema>
+             <lb:subtema>CÓMO EVITAR INTERBLOQUEOS</lb:subtema>
+             <lb:subtema>CÓMO PREVENIR INTERBLOQUEOS</lb:subtema>
+             <lb:subtema>OTRAS CUESTIONES</lb:subtema>
+             <lb:subtema>INVESTIGACIÓN SOBRE LOS INTERBLOQUEOS</lb:subtema>
+            <lb:subtema>RESUMEN</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="SISTEMAS OPERATIVOS MULTIMEDIA">
+      <lb:tema>SISTEMAS OPERATIVOS MULTIMEDIA</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>INTRODUCCIÓN A MULTIMEDIA</lb:subtema>
+             <lb:subtema>ARCHIVOS DE MULTIMEDIA</lb:subtema>
+             <lb:subtema>COMPRESIÓN DE VIDEO</lb:subtema>
+             <lb:subtema>COMPRESIÓN DE AUDIO</lb:subtema>
+             <lb:subtema>PROGRAMACIÓN DE PROCESOS MULTIMEDIA</lb:subtema>
+             <lb:subtema>PARADIGMAS DE LOS SISTEMAS DE ARCHIVOS MULTIMEDIA</lb:subtema>
+             <lb:subtema>COLOCACIÓN DE LOS ARCHIVOS</lb:subtema>
+             <lb:subtema>USO DE CACHÉ</lb:subtema>
+             <lb:subtema>PROGRAMACIÓN DE DISCOS PARA MULTIMEDIA</lb:subtema>
+             <lb:subtema>INVESTIGACIÓN SOBRE MULTIMEDIA</lb:subtema>
+            <lb:subtema>RESUMEN</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="SISTEMAS DE MÚLTIPLES PROCESADORES">
+      <lb:tema>SISTEMAS DE MÚLTIPLES PROCESADORES</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>MULTIPROCESADORES</lb:subtema>
+             <lb:subtema>MULTICOMPUTADORAS</lb:subtema>
+             <lb:subtema>VIRTUALIZACIÓN</lb:subtema>
+             <lb:subtema>SISTEMAS DISTRIBUIDOS</lb:subtema>
+             <lb:subtema>INVESTIGACIÓN SOBRE LOS SISTEMAS DE MÚLTIPLES PROCESADORES</lb:subtema>
+            <lb:subtema>RESUMEN</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="SEGURIDAD">
+      <lb:tema>SEGURIDAD</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>EL ENTORNO DE SEGURIDAD</lb:subtema>
+             <lb:subtema>FUNDAMENTOS DE LA CRIPTOGRAFÍA (CIFRADO)</lb:subtema>
+             <lb:subtema>MECANISMOS DE PROTECCIÓN</lb:subtema>
+             <lb:subtema>AUTENTICACIÓN</lb:subtema>
+             <lb:subtema>ATAQUES DESDE EL INTERIOR</lb:subtema>
+             <lb:subtema>CÓMO EXPLOTAR LOS ERRORES (BUGS) EN EL CÓDIGO</lb:subtema>
+             <lb:subtema>MALWARE</lb:subtema>
+             <lb:subtema>DEFENSAS</lb:subtema>
+             <lb:subtema>INVESTIGACIÓN SOBRE LA SEGURIDAD</lb:subtema>
+            <lb:subtema>RESUMEN</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="CASO DE ESTUDIO 1: LINUX">
+      <lb:tema>CASO DE ESTUDIO 1: LINUX</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>HISTORIA DE UNIX Y LINUX</lb:subtema>
+             <lb:subtema>GENERALIDADES SOBRE LINUX</lb:subtema>
+             <lb:subtema>LOS PROCESOS EN LINUX</lb:subtema>
+             <lb:subtema>ADMINISTRACIÓN DE LA MEMORIA EN LINUX</lb:subtema>
+             <lb:subtema>ENTRADA/SALIDA EN LINUX</lb:subtema>
+             <lb:subtema>EL SISTEMA DE ARCHIVOS DE LINUX</lb:subtema>
+             <lb:subtema>LA SEGURIDAD EN LINUX</lb:subtema>
+            <lb:subtema>RESUMEN</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="CASO DE ESTUDIO 2: WINDOWS VISTA">
+      <lb:tema>CASO DE ESTUDIO 2: WINDOWS VISTA</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>HISTORIA DE WINDOWS VISTA</lb:subtema>
+             <lb:subtema>PROGRAMACIÓN DE WINDOWS VISTA</lb:subtema>
+             <lb:subtema>ESTRUCTURA DEL SISTEMA</lb:subtema>
+             <lb:subtema>PROCESOS E HILOS EN WINDOWS VISTA</lb:subtema>
+             <lb:subtema>ADMINISTRACIÓN DE LA MEMORIA</lb:subtema>
+             <lb:subtema>USO DE LA CACHÉ EN WINDOWS VISTA</lb:subtema>
+             <lb:subtema>ENTRADA/SALIDA EN WINDOWS VISTA</lb:subtema>
+             <lb:subtema>EL SISTEMA DE ARCHIVOS NT DE WINDOWS</lb:subtema>
+             <lb:subtema>LA SEGURIDAD EN WINDOWS VISTA</lb:subtema>
+            <lb:subtema>RESUMEN</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

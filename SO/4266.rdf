@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+    <rdf:Description
+      rdf:about="PLANIFICANDO LA INSTALACIÓN DE UN SERVIDOR NT">
+        <lb:tema>PLANIFICANDO LA INSTALACIÓN DE UN SERVIDOR NT</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>¿CUÁNTA MEMORIA NECESITO?</lb:subtema>
+            <lb:subtema>¿QUE  VELOCIDAD  DE  TRATAMIENTO QUEREMOS?</lb:subtema>
+            <lb:subtema>¿QUE DISPOSITIVOS DE HARDWARE  ME  HACEN  FALTA?</lb:subtema>
+            <lb:subtema>¿DETECTARÁ EL SISTEMA OPERATIVO ESOS DISPOSITIVOS?</lb:subtema>
+            <lb:subtema>¿CUANTO DISCO DURO ME HACE  FALTA?</lb:subtema>
+            <lb:subtema>ALGUNAS NIMIEDADES QUE HARÁN NUESTRA VIDA MÁS  FÁCIL</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="INTRODUCCIÓN AL CONCEPTO DE DOMINIO">
+      <lb:tema>INTRODUCCIÓN AL CONCEPTO DE DOMINIO</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>DOMINIOS, RELACIONES Y OTRAS COSILLAS</lb:subtema>
+            <lb:subtema>UN EJEMPLO PRÁCTICO</lb:subtema>
+            <lb:subtema>EL DOMINIO MASTER</lb:subtema>
+            <lb:subtema>LOS GRUPOS DE TRABAJO</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="INICIO DE LA INSTALACIÓN DE WINDOWS NT 4.0 (PRIMERA PARTE)">
+      <lb:tema>INICIO DE LA INSTALACIÓN DE WINDOWS NT 4.0 (PRIMERA PARTE)</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>EL PROGRAMA WINNT</lb:subtema>
+            <lb:subtema>RECONOCIMIENTO DEL SISTEMA</lb:subtema>
+            <lb:subtema>CONFIGURACIÓN  DE  UNIDADES DE ALMACENAMIENTO</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="INSTALACIÓN DE WINDOWS NT WORKSTATION (SEGUNDA PARTE)">
+      <lb:tema>INSTALACIÓN DE WINDOWS NT WORKSTATION (SEGUNDA PARTE)</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>COMIENZAN LAS VENTANILLAS</lb:subtema>
+            <lb:subtema>CONFIGURANDO EL ACCESO A RED</lb:subtema>
+            <lb:subtema>PANTALLA DE LOS SERVICIOS DE RED</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="INSTALACIÓN DE WINDOWS NT SERVER(SEGUNDA PARTE)">
+      <lb:tema>INSTALACIÓN DE WINDOWS NT SERVER(SEGUNDA PARTE)</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>COMENZANDO LA INSTALACIÓN DE LA RED</lb:subtema>
+            <lb:subtema>PANTALLA DE LOS SERVICIOS EN RED.</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="ELECCIÓN DE UN PROTOCOLO DE RED.">
+      <lb:tema>ELECCIÓN DE UN PROTOCOLO DE RED.</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>PROTOCOLOS  "DE SERIE": IPX/SPX Y NETBEUI.</lb:subtema>
+            <lb:subtema>NETBEUI.</lb:subtema>
+            <lb:subtema>IPX/SPX.</lb:subtema>
+            <lb:subtema>TCP/IP.</lb:subtema>
+            <lb:subtema>NETBIOS, UN  ESCALÓN  MÁS  ARRIBA</lb:subtema>
+            <lb:subtema>CONCLUSIONES  FINALES</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="GESTIÓN DE USUARIOS">
+      <lb:tema>GESTIÓN DE USUARIOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>CUENTAS DE USUARIOS Y GRUPOS</lb:subtema>
+            <lb:subtema>GRUPOS GLOBALES</lb:subtema>
+            <lb:subtema>GRUPOS LOCALES</lb:subtema>
+            <lb:subtema>ESTRATEGIAS PARA UTILIZAR GRUPOS LOCALES Y GLOBALES</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="NOCIONES SOBRE DISCOS DUROS">
+      <lb:tema>NOCIONES SOBRE DISCOS DUROS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>LA PARTE DURA</lb:subtema>
+            <lb:subtema>LA SECUENCIA DE INICIO</lb:subtema>
+            <lb:subtema>PARTICIONES PRIMARIAS Y EXTENDIDAS</lb:subtema>
+            <lb:subtema>VOLÚMENES</lb:subtema>
+            <lb:subtema>PORQUÉ PARTICIONAR UN DISCO DURO</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="EL ADMINISTRADOR DE DISCOS">
+      <lb:tema>EL ADMINISTRADOR DE DISCOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>POSIBILIDAD QUE OFRECE</lb:subtema>
+            <lb:subtema>UN VISTAZO RÁPIDO</lb:subtema>
+            <lb:subtema>EL ENTORNO DE TRABAJO</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="REPARACIÓN DE UN SISTEMA DAÑADO">
+      <lb:tema>REPARACIÓN DE UN SISTEMA DAÑADO</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>PREVISIÓN  Y  ANÁLISIS</lb:subtema>
+            <lb:subtema>ULTIMA CONFIGURACIÓN CORRECTA</lb:subtema>
+            <lb:subtema>ARRANQUE CON LOS DISCOS DE INICIO</lb:subtema>
+            <lb:subtema>OPCIONES DE REPARACIÓN</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="DECÁLOGO DE SEGURIDAD">
+      <lb:tema>DECÁLOGO DE SEGURIDAD</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>DIVIDE  Y  VENCERÁS</lb:subtema>
+            <lb:subtema>NTFS</lb:subtema>
+            <lb:subtema>USUARIOS INDESEADOS</lb:subtema>
+            <lb:subtema>LAS CUENTAS CLARAS</lb:subtema>
+            <lb:subtema>COMPARTIR Y PERMITIR</lb:subtema>
+            <lb:subtema>CUIDADO CON EL PROTOCOLO</lb:subtema>
+            <lb:subtema>CADA SERVICIO UNA PUERTA</lb:subtema>
+            <lb:subtema>AUDITORÍA DE SUCESOS</lb:subtema>
+            <lb:subtema>MANTÉNTE AL LORO</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="COMANDOS NET">
+      <lb:tema>COMANDOS NET</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>NET ACCOUNTS</lb:subtema>
+            <lb:subtema>PARÁMETROS</lb:subtema>
+            <lb:subtema>EJEMPLOS</lb:subtema>
+            <lb:subtema>NET COMPUTER</lb:subtema>
+            <lb:subtema>PARÁMETROS</lb:subtema>
+            <lb:subtema>NOTAS</lb:subtema>
+            <lb:subtema>EJEMPLO</lb:subtema>
+            <lb:subtema>NET CONFIG</lb:subtema>
+            <lb:subtema>PARÁMETROS</lb:subtema>
+            <lb:subtema>OPCIONES</lb:subtema>
+            <lb:subtema>NET CONFIG SERVER</lb:subtema>
+            <lb:subtema>PARÁMETROS</lb:subtema>
+            <lb:subtema>EJEMPLOS</lb:subtema>
+            <lb:subtema>NOTAS</lb:subtema>
+            <lb:subtema>NET CONFIG WORKSTATION</lb:subtema>
+            <lb:subtema>NET CONTINUE</lb:subtema>
+            <lb:subtema>NET FILE</lb:subtema>
+            <lb:subtema>NET GROUP</lb:subtema>
+            <lb:subtema>NET HELP</lb:subtema>
+            <lb:subtema>NET HELPMSG</lb:subtema>
+            <lb:subtema>NET LOCALGROUP</lb:subtema>
+            <lb:subtema>NET NAME</lb:subtema>
+            <lb:subtema>NET PAUSE</lb:subtema>
+            <lb:subtema>NET PRINT</lb:subtema>
+            <lb:subtema>NET SEND</lb:subtema>
+            <lb:subtema>NET SESSION</lb:subtema>
+            <lb:subtema>NET SHARE</lb:subtema>
+            <lb:subtema>NET START</lb:subtema>
+            <lb:subtema>NET STATISTICS</lb:subtema>
+            <lb:subtema>NET STOP</lb:subtema>
+            <lb:subtema>NET TIME</lb:subtema>
+            <lb:subtema>NET USE</lb:subtema>
+            <lb:subtema>CONEXIONES SIN DISPOSITIVOS</lb:subtema>
+            <lb:subtema>CONEXIÓN CON SERVIDORES </lb:subtema>
+            <lb:subtema>NET WARE</lb:subtema>
+            <lb:subtema>NET USER</lb:subtema>
+            <lb:subtema>NET VIEW</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+
+    <rdf:Description
+      rdf:about="Introduccción a NetWare de Novell">
+      <lb:tema>Introduccción a NetWare de Novell</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>De qué trata este libro</lb:subtema>
+             <lb:subtema>Versiones de NerWare de Novell</lb:subtema>
+             <lb:subtema>De lo que se trata este libro</lb:subtema>
+             <lb:subtema>¿Qué es una LAN?</lb:subtema>
+             <lb:subtema>Conversion en los nombres de vías de acceso en NetWare</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="NetWare como sistema operativo">
+      <lb:tema>NetWare como sistema operativo</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>NetWare es propiamente un sistema operativo</lb:subtema>
+             <lb:subtema>NetWare un entorno operativo multiusuario</lb:subtema>
+             <lb:subtema>Cómo se consigue la interoperatividad</lb:subtema>
+             <lb:subtema>Semejanza con el uso de la estructura de ordenes del DOS</lb:subtema>
+             <lb:subtema>Funcionalidad adicional en una estación</lb:subtema>
+            <lb:subtema>Funcionalidad adicional en el servidor</lb:subtema>
+            <lb:subtema>Hacia el proceso distrobuido: Paradox3</lb:subtema>
+            <lb:subtema>Aplicaciones futuras en entornos distribuidos y multiproceso</lb:subtema>
+            <lb:subtema>Que hay que tener en cuenta en un software de aplicación para LAN</lb:subtema>
+            <lb:subtema>Consideraciones finales sobre el empleo de múltipes unidades lógicas</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Planificación de la estructura de seguridad, directorios, grupos y usuarios">
+      <lb:tema>Planificación de la estructura de seguridad, directorios, grupos y usuarios</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Asignación de individuos a grupos</lb:subtema>
+             <lb:subtema>Estructura de directorios y formularios de planificación de derechos</lb:subtema>
+             <lb:subtema>Consideraciones sobre redes con varios servidores</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Administración de sesiones en NetWare">
+      <lb:tema>Administración de sesiones en NetWare</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>IPX, NETx, LOGIN, SETPASS, ATTACH y LOGOUT</lb:subtema>
+             <lb:subtema>MAP</lb:subtema>
+             <lb:subtema>Cómo usa WordPerfect 5.0 las unidades lógicas de NetWare</lb:subtema>
+            <lb:subtema>Otras órdenes de sesión de NetWare</lb:subtema>
+            <lb:subtema>El menú SESSION</lb:subtema>
+            <lb:subtema>Secuencias de conexión(Login Scripts)</lb:subtema>
+            <lb:subtema>Copia de secuencias de conexión individuales por parte del SUPERVISOR</lb:subtema>
+            <lb:subtema>Cambio de la secuencia de conexión del sistema</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Ordenes de archivps NetWare">
+      <lb:tema>Ordenes de archivps NetWare</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Ordenes de administración de archivos y directorios de NetWare</lb:subtema>
+             <lb:subtema>El menú FILER de NetWare</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Ordenes y menús para la administración de la impresión en NetWare">
+      <lb:tema>Ordenes y menús para la administración de la impresión en NetWare</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Fundamentos de la administración de la impresión en NetWare</lb:subtema>
+             <lb:subtema>Control desde la consola de los trabajos de impresión</lb:subtema>
+            <lb:subtema>Ordenes de NetWare para la administración de la impresión</lb:subtema>
+            <lb:subtema>Cambiar el formato de papel desde la consola del servidor</lb:subtema>
+            <lb:subtema>Menús de estación de NetWare</lb:subtema>
+            <lb:subtema>Instalación de impresoras de red</lb:subtema>
+            <lb:subtema>Instalación de impresoras de red en una aplicación</lb:subtema>
+            <lb:subtema>Los peligros de la impresión en red</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Instalación y mantenimiento de NetWare">
+      <lb:tema>Instalación y mantenimiento de NetWare</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Configuración del hardware de la computadora e instalación del hardware configurable</lb:subtema>
+             <lb:subtema>Preparativos para la instalación y configuración de NetWare</lb:subtema>
+            <lb:subtema>Instalación y generación del sistema operativo de red</lb:subtema>
+            <lb:subtema>Ejecución de NETGEN</lb:subtema>
+            <lb:subtema>Selección de la configuración de la red</lb:subtema>
+            <lb:subtema>Instalación de NetWare mediante NETGEN</lb:subtema>
+            <lb:subtema>Ejecución de SHGEN y creación de un archivo SHELLCFG</lb:subtema>
+            <lb:subtema>Los peligros de la impresión en red</lb:subtema>
+            <lb:subtema>El arranque del servidor</lb:subtema>
+            <lb:subtema>Ordenes de consola y cierre del servidor</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

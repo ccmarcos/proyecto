@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+  
+    <rdf:Description
+      rdf:about="More About Files and Directories">
+      <lb:tema>More About Files and Directories</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Before You Start</lb:subtema>
+             <lb:subtema>File Protectiom</lb:subtema>
+             <lb:subtema>How MS-DOS Keeps Track of Your Files</lb:subtema>
+             <lb:subtema>Multilevel Directories</lb:subtema>
+             <lb:subtema>Paths and Pathnames</lb:subtema>
+             <lb:subtema>Wildcards</lb:subtema>
+             <lb:subtema>Using Directories</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="About Commands">
+      <lb:tema>About Commands</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Types of MS-DOS Commands</lb:subtema>
+             <lb:subtema>Redirecting Command Input and Output</lb:subtema>
+             <lb:subtema>Filters and Pipes</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="MS-DOS Commands">
+      <lb:tema>MS-DOS Commands</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Sample Command</lb:subtema>
+             <lb:subtema>Command Options</lb:subtema>
+             <lb:subtema>MD-DOS Commands</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+   <rdf:Description
+      rdf:about="Batch Processing">
+      <lb:tema>Batch Processing</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+            <lb:subtema>Why Use Batch Files?</lb:subtema>
+            <lb:subtema>Hot to Create Batch Files</lb:subtema>
+            <lb:subtema>The Autoexec.bat File</lb:subtema>
+            <lb:subtema>How Create a Batch File with Replaceable Parameters</lb:subtema>
+            <lb:subtema>How to Use Named Parameters in a Batch File</lb:subtema>
+            <lb:subtema>How Run a Batch File</lb:subtema>
+            <lb:subtema>How to use Tempory Files</lb:subtema>
+            <lb:subtema>Batch Processing Commands</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="MS-DOS Editing and Function Keys">
+      <lb:tema>MS-DOS Editing and Function Keys</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+            <lb:subtema>Special MS-DOS Editing Keys</lb:subtema>
+            <lb:subtema>How to Use the MS-DOS Template</lb:subtema>
+            <lb:subtema>The MS-DOS Control Characters</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="The Line Editor(Edlin)">
+      <lb:tema>The Line Editor(Edlin)</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+            <lb:subtema>How Edlin Works</lb:subtema>
+            <lb:subtema>How to End Edlin and Save Your Changes</lb:subtema>
+            <lb:subtema>Special Editing Keys</lb:subtema>
+            <lb:subtema>Using Edlin Commands</lb:subtema>
+            <lb:subtema>Edlin Command Options</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

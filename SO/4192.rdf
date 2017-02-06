@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="An introduction to Networking">
+  <lb:tema>An introduction to Networking</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Networking Primer</lb:subtema>
+      <lb:subtema>What Is a Network? </lb:subtema>
+      <lb:subtema>What Is TCP/IP?</lb:subtema>
+      <lb:subtema>Networking Hardware and Protocols</lb:subtema>
+      <lb:subtema>Networking Software</lb:subtema>
+     </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Installing Networking">
+  <lb:tema>Installing Networking</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Adding Networking to Your Linux</lb:subtema>
+      <lb:subtema>Installing Hardware</lb:subtema>
+      <lb:subtema>Installing Hardware </lb:subtema>
+      <lb:subtema>Selecting an Internet Service Provider </lb:subtema>
+     </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Adding Networking Software to Your Linux System">
+  <lb:tema>Adding Networking Software to Your Linux System</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Adding Networking to Your Linux. Kernel</lb:subtema>
+      <lb:subtema>Elementary</lb:subtema>
+      <lb:subtema>Autodialing</lb:subtema>
+      <lb:subtema></lb:subtema>
+     </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Adding Networking to Your Linux. Kernel">
+  <lb:tema>Adding Networking to Your Linux. Kernel</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Preparations</lb:subtema>
+      <lb:subtema>Configuring the Kernel</lb:subtema>
+      <lb:subtema>Compiling and Installing</lb:subtema>
+      <lb:subtema>Configuring Networking</lb:subtema>
+      <lb:subtema>Configuration Files</lb:subtema>
+      <lb:subtema>Network Configuration Commands </lb:subtema>
+      <lb:subtema>Interface Configuration Commands</lb:subtema>
+      <lb:subtema>Other Activation Commands</lb:subtema>
+      <lb:subtema>Networking Scripts</lb:subtema>
+      <lb:subtema>Configuring PPP </lb:subtema>
+      <lb:subtema>Conclusion</lb:subtema>
+     </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Elementary">
+  <lb:tema>Elementary</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Troubleshooting</lb:subtema>
+      <lb:subtema>Philosophy of Debugging </lb:subtema>
+      <lb:subtema>Monitoring Tools</lb:subtema>
+      <lb:subtema>Summary</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Autodialing">
+  <lb:tema>Autodialing</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>How diald Works</lb:subtema>
+      <lb:subtema>Compiling diald</lb:subtema>
+      <lb:subtema>Installation and Configuration</lb:subtema>
+      <lb:subtema>Start diald </lb:subtema>
+      <lb:subtema>Automatically Start diald</lb:subtema>
+     </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Commands That Use Networking">
+  <lb:tema>Commands That Use Networking</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>ftp: Transfer Files </lb:subtema>
+      <lb:subtema>telnet</lb:subtema>
+      <lb:subtema>Usenet News</lb:subtema>
+     </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

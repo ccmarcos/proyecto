@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Los recursos básicos del sistema">
+  <lb:tema>Los recursos básicos del sistema</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+        <lb:subtema>Equipo(Hardware)</lb:subtema>
+        <lb:subtema>Soporte lógico y datos</lb:subtema>
+        <lb:subtema>Enlace de componentes del sistema</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Desarrollo del sistema operativo">
+  <lb:tema>Desarrollo del sistema operativo</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Sistemas de un solo pregunta</lb:subtema>
+      <lb:subtema>Multiprogramación y tiempo compartido</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Comunicación con el sistema">
+  <lb:tema>Comunicación con el sistema</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Lenguaje de mando y de control de trabajo</lb:subtema>
+      <lb:subtema>Control de trabajo bajo el sistema operativo de disco de la IBM</lb:subtema>
+      <lb:subtema>Lenguaje controlador  de trabajo para los sistemas operativos de las computadoras/360y /370 de la IBM e instrucciones JOB y EXEC</lb:subtema>
+      <lb:subtema>La instrucción DD</lb:subtema>
+      <lb:subtema>Bibliotecas y el compaginador</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Concepto de sistema operativo">
+  <lb:tema>Concepto de sistema operativo</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Concepto de sistema operativo</lb:subtema>
+      <lb:subtema>Sistemas de usuarios múltiples </lb:subtema>
+      <lb:subtema>Segmentación, paginación y memeoria virtual</lb:subtema>
+      <lb:subtema>Principios operativos del sistema/370 de la IBM</lb:subtema>
+      <lb:subtema>Sistema operativo en disco/alamcenamiento virtual del sistema/370 de IBM</lb:subtema>
+      <lb:subtema>OS/VSI  del sistema /370 de IBM</lb:subtema>
+      <lb:subtema>Tendencias y alternaticas en el diseño de sistemas operativos</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Soporte Lógico del sistema">
+  <lb:tema>Soporte Lógico del sistema</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Introducción al la parte V</lb:subtema>
+      <lb:subtema>Monitores de comunicación de datos</lb:subtema>
+      <lb:subtema>Administración de las bases de datos</lb:subtema>
+      <lb:subtema>Breve estudio del soporte lógico comercial</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Apéndice A">
+  <lb:tema>péndice A</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Apéndice A: Sistemas numéricos, datos tipo y códigos</lb:subtema>
+      <lb:subtema>Apéndice B: Resumen de las instrucciones de control de trabajo del DOS</lb:subtema>
+      <lb:subtema>Apéndice C: Resumen de lenguaje controlador de trabajo del sistema operativo de los equipos IBM/360 e IBM/370</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 

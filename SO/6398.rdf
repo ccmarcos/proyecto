@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+
+    <rdf:Description
+      rdf:about="Qué es NOWS SBE 2.0?">
+      <lb:tema>Qué es NOWS SBE 2.0?</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Descripción general</lb:subtema>
+             <lb:subtema>NOWS SBE 2.0: Novedades</lb:subtema>
+             <lb:subtema>Componentes del producto</lb:subtema>
+             <lb:subtema>Requisitos</lb:subtema>
+             <lb:subtema>Planificación de la instalación de NOWS SBE</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Inicio">
+      <lb:tema>Inicio</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Instalación de Novell Workgroup Suite Small Business Edition</lb:subtema>
+             <lb:subtema>Administración de Novell Open Workgroup Suite Small Business Edition</lb:subtema>
+             <lb:subtema>Configuring Components(Configuración de los componentes)</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Directory Services(eDirectory)(Servicios de Directorio(eDirectory))">
+      <lb:tema>Directory Services(eDirectory)(Servicios de Directorio(eDirectory))</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Instalación básica de eDirectory</lb:subtema>
+             <lb:subtema>Installing eDirectory Advanced - New Tree(Instalación avanzada de eDirectory - Árbol nuevo)</lb:subtema>
+             <lb:subtema>Installing eDirectory Advanced - Existing Tree(Instalación avanzada de eDirectory - Árbol existente)</lb:subtema>
+            <lb:subtema>Instalación avanzada de eDirectory - Remote Tree(Árbol remoto)</lb:subtema>
+            <lb:subtema>Tareas posteriores a la instalción</lb:subtema>
+            <lb:subtema>Desktop Download (Descarga de escritorio)</lb:subtema>
+            <lb:subtema>ConsoleOne</lb:subtema>
+            <lb:subtema>Enlaces útiles</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Management Tools (iManager) (Herramientas de gestión (iManager):">
+      <lb:tema>Management Tools (iManager) (Herramientas de gestión (iManager):</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Instalación básica de iManager</lb:subtema>
+             <lb:subtema>Instalación avanzada de iManager</lb:subtema>
+             <lb:subtema>Tareas posteriores a la instalación</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Personal File Backup (iFolder) (Copia de seguridad de archivo personal(iFolder):">
+      <lb:tema>Personal File Backup (iFolder) (Copia de seguridad de archivo personal(iFolder):</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Instalación básica de iFolder</lb:subtema>
+             <lb:subtema>Instalación avanzada de iFolder</lb:subtema>
+             <lb:subtema>Tareas posteriores a la instalación</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+        </rdf:Description>
+    <rdf:Description
+      rdf:about="Network Backup (Amanda) (Copia de seguridad de red (Amanda))">
+      <lb:tema>Network Backup (Amanda) (Copia de seguridad de red (Amanda))</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Instalación básica de Amanda</lb:subtema>
+             <lb:subtema>Instalación avanzada de Amanda</lb:subtema>
+             <lb:subtema>Tareas posteriores a la instalación</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="OpenOffice.org">
+      <lb:tema>IOpenOffice.org</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Instalación básica de OpenOffice.org</lb:subtema>
+             <lb:subtema>Tareas posteriores a la instalación</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="E-Mail Collaboration and Groupware (GroupWise) (Colaboración por correo electrónico y groupware (GroupWise))">
+      <lb:tema>E-Mail Collaboration and Groupware (GroupWise) (Colaboración por correo electrónico y groupware (GroupWise))</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Instalación básica de GroupWise</lb:subtema>
+             <lb:subtema>Instalación avanzada de GroupWise</lb:subtema>
+             <lb:subtema>Tareas posteriores a la instalación</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>   
+    <rdf:Description
+      rdf:about="Print Services (iPrint) (Servicios de impresión (iPrint))">
+      <lb:tema>Print Services (iPrint) (Servicios de impresión (iPrint))</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Instalación de iPrint</lb:subtema>
+             <lb:subtema>Tareas posteriores a la instalación</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description> 
+    <rdf:Description
+      rdf:about="Windows File and Print Sharing (Samba) (Compartición de archivo e impresión de Windows (Samba)">
+      <lb:tema>Windows File and Print Sharing (Samba) (Compartición de archivo e impresión de Windows (Samba)</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Instalación básica de SAMBA</lb:subtema>
+             <lb:subtema>Instalación avanzada de SAMBA</lb:subtema>
+             <lb:subtema>Tareas posteriores a la instalación</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description> 
+    <rdf:Description
+      rdf:about="Fax Server (HylaFAX) (Servidor de fax (HylaFAX))">
+      <lb:tema>Fax Server (HylaFAX) (Servidor de fax (HylaFAX))</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Instalación de HylaFAX</lb:subtema>
+             <lb:subtema>Tareas posteriores a la instalación</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description> 
+    <rdf:Description
+      rdf:about="Anti-Virus (ClamAV) (Antivirus (ClamAV)">
+      <lb:tema>Anti-Virus (ClamAV) (Antivirus (ClamAV)</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Instalación básica de ClamAV</lb:subtema>
+             <lb:subtema>Instalación avanzada de ClamAV</lb:subtema>
+             <lb:subtema>Tareas posteriores a la instalación</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description> 
+    <rdf:Description
+      rdf:about="Antispam (MailScanner)">
+      <lb:tema>Antispam (MailScanner)</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Instalación básica de MailScanner</lb:subtema>
+             <lb:subtema>Instalación avanzada de MailScanner</lb:subtema>
+             <lb:subtema>Tareas posteriores a la instalación</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description> 
+    <rdf:Description
+      rdf:about="Firewall (IPTables) (Cortafuegos (IPTables)">
+      <lb:tema>Firewall (IPTables) (Cortafuegos (IPTables)</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Instalación básica de IPTables</lb:subtema>
+             <lb:subtema>Instalación avanzada de IPTables</lb:subtema>
+             <lb:subtema>Tareas posteriores a la instalación</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description> 
+     <rdf:Description
+      rdf:about="VPN Server (OpenVPN) (Servidor VPN (OpenVPN):">
+      <lb:tema>VPN Server (OpenVPN) (Servidor VPN (OpenVPN):</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Instalación básica de OpenVPN</lb:subtema>
+             <lb:subtema>Instalación avanzada de OpenVPN</lb:subtema>
+             <lb:subtema>Tareas posteriores a la instalación</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description> 
+    <rdf:Description
+      rdf:about="Dynamic Local User (Usuario local dinámico)">
+      <lb:tema>Dynamic Local User (Usuario local dinámico)</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Instalación básica de DLU</lb:subtema>
+             <lb:subtema>Instalación avanzada de DLU</lb:subtema>
+             <lb:subtema>Tareas posteriores a la instalación</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Helpdesk">
+      <lb:tema>Helpdesk</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Instalación básica de Helpdesk</lb:subtema>
+             <lb:subtema>Instalación avanzada de Helpdesk</lb:subtema>
+             <lb:subtema>Tareas posteriores a la instalación</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="DHCP">
+      <lb:tema>DHCP</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Instalación DE DHCP</lb:subtema>
+             <lb:subtema>Tareas posteriores a la instalación</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="DNS">
+      <lb:tema>DNS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Instalación DE DNS</lb:subtema>
+             <lb:subtema>Tareas posteriores a la instalación</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Remote Desktop (TightVNC) (Escritorio remoto (TightVNC):">
+      <lb:tema>Remote Desktop (TightVNC) (Escritorio remoto (TightVNC):</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Instalación básica de TightVNC</lb:subtema>
+             <lb:subtema>Instalación avanzada de TightVNC</lb:subtema>
+             <lb:subtema>Tareas posteriores a la instalación</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

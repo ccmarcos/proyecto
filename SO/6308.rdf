@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+    <rdf:Description
+      rdf:about="Learning About MS-DOS">
+      <lb:tema>Learning About MS-DOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Terms You Should Know</lb:subtema>
+             <lb:subtema>Keys You Use width MS-DOS</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Learning About Disks, Files, and Directories">
+      <lb:tema>Learning About Disks, Files, and Directories</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Floppy Disks</lb:subtema>
+             <lb:subtema>3.5-inch Disks</lb:subtema>
+             <lb:subtema>Hard Disks</lb:subtema>
+             <lb:subtema>Formating your disks</lb:subtema>
+             <lb:subtema>How to Name Your Files</lb:subtema>
+             <lb:subtema>Directories</lb:subtema>
+            <lb:subtema>Getting Started</lb:subtema>
+            <lb:subtema>How to Install MS-Dos Using the Select Programa</lb:subtema>
+            <lb:subtema>Running the Select Program</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Getting Started, cont’d">
+      <lb:tema>Getting Started, cont’d</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Running the Select Program, cont’d</lb:subtema>
+             <lb:subtema>Continuing MS-DOS Installation</lb:subtema>
+             <lb:subtema>An Overview of the MS-DOS Shell</lb:subtema>
+             <lb:subtema>How to Quit MS-DOS</lb:subtema>
+             <lb:subtema>How to Make a Backup Copy of Your MS-DOS Disk</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Using Commands">
+      <lb:tema>Using Commands</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>File Commands</lb:subtema>
+             <lb:subtema>Disk Command</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Using Aplications with MS-DOS">
+      <lb:tema>Using Aplications with MS-DOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>How to Run Application Programs</lb:subtema>
+             <lb:subtema>How to Create a File with Edlin</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Setting Up MS-DOS">
+      <lb:tema>Setting Up MS-DOS</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>The Config.sys File</lb:subtema>
+            <lb:subtema>The Autoexec.bat File</lb:subtema>
+            <lb:subtema>Summary</lb:subtema>
+            <lb:subtema>What comes next?</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

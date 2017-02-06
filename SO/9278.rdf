@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:lb="Biblioteca/">
+    
+    <rdf:Description
+      rdf:about="How UUCP Works">
+      <lb:tema>How UUCP Works</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Behind the Scenes</lb:subtema>
+             <lb:subtema>A Word About Moderns</lb:subtema>
+             <lb:subtema>Setting Up a Link</lb:subtema>
+             <lb:subtema>Files and Directories</lb:subtema>
+             <lb:subtema>UUCP Login IDs</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="The Physical Connection">
+      <lb:tema>The Physical Connection</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Building Serial Cables</lb:subtema>
+             <lb:subtema>Configuring Serial Ports</lb:subtema>
+             <lb:subtema>Communications Settings</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Setting Up a UUCP Link">
+      <lb:tema>Setting Up a UUCP Link</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Summary of Procedure</lb:subtema>
+             <lb:subtema>Giving Your System a Name</lb:subtema>
+             <lb:subtema>Who You Gonna Call?</lb:subtema>
+            <lb:subtema>Multiple Systems Files</lb:subtema>
+            <lb:subtema>Dialing Prefixes</lb:subtema>
+            <lb:subtema>Aliases</lb:subtema>
+            <lb:subtema>Selecting the DEvice to Use</lb:subtema>
+            <lb:subtema>Modem Dialing Instructions</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Making Sure the Link Works">
+      <lb:tema>Making Sure the Link Works</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Testing with cu</lb:subtema>
+             <lb:subtema>Testing with tip</lb:subtema>
+             <lb:subtema>Testing with uucico -x</lb:subtema>
+            <lb:subtema>Checking the Log File</lb:subtema>
+            <lb:subtema>System Status Files</lb:subtema>
+            <lb:subtema>Testing sith Uutry</lb:subtema>
+            <lb:subtema>Correcting the Chat</lb:subtema>
+            <lb:subtema>More Chat</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Acess and Security Considerations">
+      <lb:tema>Acess and Security Considerations</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Creating /etc/passwd Entries</lb:subtema>
+             <lb:subtema>Security in Version 2 UUCP</lb:subtema>
+             <lb:subtema>Security in BNU</lb:subtema>
+            <lb:subtema>Modes and Ownership of UUCP Files</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="UUCP Administration">
+      <lb:tema>UUCP Administration</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Contents of the Spool Directory</lb:subtema>
+             <lb:subtema>Keeping Track of UUCP Activity</lb:subtema>
+             <lb:subtema>Automatic Maintenance</lb:subtema>
+            <lb:subtema>Automatic Maintenance in Xenix</lb:subtema>
+            <lb:subtema>Polling Passive Systems</lb:subtema>
+            <lb:subtema>Troubleshooting</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+     <rdf:Description
+      rdf:about="Intoduction to Usenet">
+      <lb:tema>Intoduction to Usenet</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Newsgroup Categories</lb:subtema>
+             <lb:subtema>Administering Netnews</lb:subtema>
+             <lb:subtema>Overview of the Netnews Software</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Installing Netnews">
+      <lb:tema>Installing Netnews</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Finding a News Feed</lb:subtema>
+             <lb:subtema>Configuring B News 2.11</lb:subtema>
+             <lb:subtema>Configuring B News</lb:subtema>
+             <lb:subtema>The Actual Install</lb:subtema>
+             <lb:subtema>Testing the News Link</lb:subtema>
+            <lb:subtema>Installing Documentation On-line</lb:subtema>
+            <lb:subtema>Registering Your Site</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="Administering Netnews">
+      <lb:tema>Administering Netnews</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>Maintaining the List of Active Groups</lb:subtema>
+             <lb:subtema>UUCP Congestion</lb:subtema>
+             <lb:subtema>Creating Newsgroups</lb:subtema>
+             <lb:subtema>Expiring Articles</lb:subtema>
+             <lb:subtema>Trimming History and Log Files</lb:subtema>
+            <lb:subtema>Creating Recordings</lb:subtema>
+            <lb:subtema>Onbatching News Articles</lb:subtema>
+            <lb:subtema>Keeping Up to Date</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+    <rdf:Description
+      rdf:about="NNTP: Transferring News Over the Network">
+      <lb:tema>NNTP: Transferring News Over the Network</lb:tema>
+      <lb:subtema>
+        <rdf:Seq>
+             <lb:subtema>What Is NNTP and Why Do We Care?</lb:subtema>
+             <lb:subtema>Configuring, Compiling, and Installing NNTP</lb:subtema>
+             <lb:subtema>Administering NNTP</lb:subtema>
+             <lb:subtema>For More Information</lb:subtema>
+        </rdf:Seq>
+      </lb:subtema>
+    </rdf:Description>
+</rdf:RDF> 

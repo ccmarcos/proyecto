@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:lb="Biblioteca/">
+
+<rdf:Description
+rdf:about="Linux y la programación Linux en contexto">
+  <lb:tema>Linux y la programación Linux en contexto</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Linux llega a la mayoría de edad</lb:subtema>
+      <lb:subtema>Linux ayer</lb:subtema>
+      <lb:subtema>Linux hoy</lb:subtema>
+      <lb:subtema>Linux mañana</lb:subtema>
+      <lb:subtema>¿Por qué programar en Linux?</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Lo que aprenderemos, capítulo a capítulo">
+  <lb:tema>Lo que aprenderemos, capítulo a capítulo</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>El conjunto de herramientas para la programación en Linux </lb:subtema>
+      <lb:subtema>Entrada, salida, archivos y directorios</lb:subtema>
+      <lb:subtema>Procesos y sincronización</lb:subtema>
+      <lb:subtema>Programación de red</lb:subtema>
+      <lb:subtema>Programación de la interfaz de usuario</lb:subtema>
+      <lb:subtema>Temas especiales</lb:subtema>
+      <lb:subtema>Toques finales</lb:subtema>
+      <lb:subtema>Resumen</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Configuración de un sistema de desarrollo">
+  <lb:tema>Configuración de un sistema de desarrollo</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Consideraciones generales</lb:subtema>
+      <lb:subtema>La placa madre y la CPU</lb:subtema>
+      <lb:subtema>E/S integrada</lb:subtema>
+      <lb:subtema>Procesador</lb:subtema>
+      <lb:subtema>BIOS  Memoria</lb:subtema>
+      <lb:subtema>Cajas y fuentes de alimentación</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Cómo utilizar el grupo de compilador GNU">
+  <lb:tema>Cómo utilizar el grupo de compilador GNU</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Características de GNU CC </lb:subtema>
+      <lb:subtema>Ejemplo tutorial</lb:subtema>
+      <lb:subtema>Opciones de línea de comandos comunes</lb:subtema>
+      <lb:subtema>Opciones de optimización  Opciones de depuración</lb:subtema>
+      <lb:subtema>Resumen</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Administración de proyectos utilizando make de GNU">
+  <lb:tema>Administración de proyectos utilizando make de GNU</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>¿Por qué make?</lb:subtema>
+      <lb:subtema>Cómo escribir archivos make </lb:subtema>
+      <lb:subtema>Reglas del archivo make</lb:subtema>
+      <lb:subtema>Resumen</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Cómo crear software autoconfigurable y portátil">
+  <lb:tema>Cómo crear software autoconfigurable y portátil</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Consideración de la portabilidad</lb:subtema>
+      <lb:subtema>Estudio de Autoconf </lb:subtema>
+      <lb:subtema>Macros internas</lb:subtema>
+      <lb:subtema>Macros genéricas</lb:subtema>
+      <lb:subtema>Un guión autoconf comentado </lb:subtema>
+      <lb:subtema>Resumen</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Comparación y fusión de los archivos de código fuente">
+  <lb:tema>Comparación y fusión de los archivos de código fuente</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+    	<lb:subtema>Comparación de archivos utilizando el comando diff</lb:subtema>
+    	<lb:subtema>Opciones y argumentos de la línea de comandos de diff</lb:subtema>
+    	<lb:subtema>El comando diff3</lb:subtema>
+    	<lb:subtema>Preparación de los parches del código fuente</lb:subtema>
+    	<lb:subtema>Opciones de la línea de comandos de patch</lb:subtema>
+    	<lb:subtema>Creación de un parche</lb:subtema>
+    	<lb:subtema>Aplicación de un parche</lb:subtema>
+    	<lb:subtema>Resumen</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+<rdf:Description
+rdf:about="Control de versión utilizando RCS y CVS">
+  <lb:tema>Control de versión utilizando RCS y CVS</lb:tema>
+  <lb:subtema>
+    <rdf:Seq>
+      <lb:subtema>Terminología básica</lb:subtema>
+      <lb:subtema>Cómo utilizar el Sistema de control de revisión (RCS)</lb:subtema>
+      <lb:subtema>Cómo utilizar el Sistema de versiones concurrentes (CVS)</lb:subtema>
+      <lb:subtema>Resumen</lb:subtema>
+    </rdf:Seq>
+  </lb:subtema>
+</rdf:Description>
+</rdf:RDF> 
